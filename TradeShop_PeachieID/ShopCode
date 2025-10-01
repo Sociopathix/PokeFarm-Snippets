@@ -222,6 +222,50 @@
                                 ][td] [/td][
                             ][/tr][
                             ][tr][
+                                ][th]Galar[/th][
+                                ][td][tip=Rusted Sword][item=Rusted Sword][/tip]x[inventory=Rusted Sword][/td][
+                                ][td][tip=Rusted Shield][item=Rusted Shield][/tip]x[inventory=Rusted Shield][/td][
+                                ][td][tip=Wishing Star][item=Wishing Star][/tip]x[inventory=Wishing Star][/td][
+                                ][td][tip=White Belt][item=White Belt][/tip]x[inventory=White Belt][/td][
+                                ][td][tip=Jungle Root][item=Jungle Root][/tip]x[inventory=Jungle Root][/td][
+                                ][td][tip=Electric Statue][item=Electric Statue][/tip]x[inventory=Electric Statue][/td][
+                                ][td][tip=Dragon Statue][item=Dragon Statue][/tip]x[inventory=Dragon Statue][/td][
+                                ][td][tip=Iceroot Carrot][item=Iceroot Carrot][/tip]x[inventory=Iceroot Carrot][/td][
+                            ][/tr][
+                            ][tr][
+                                ][th] [/th][
+                                ][td][tip=Shaderoot Carrot][item=Shaderoot Carrot][/tip]x[inventory=Shaderoot Carrot][/td][
+                                ][td][tip=Radiant Petal][item=Radiant Petal][/tip]x[inventory=Radiant Petal][/td][
+                                ][td] [/td][
+                                ][td] [/td][
+                                ][td] [/td][
+                                ][td] [/td][
+                                ][td] [/td][
+                                ][td] [/td][
+                            ][/tr][
+                            ][tr][
+                                ][th]Paldea[/th][
+                                ][td][tip=Gimmighoul Coin][item=Gimmighoul Coin][/tip]x[inventory=Gimmighoul Coin][/td][
+                                ][td][tip=Tablet of Ruin][item=Tablet of Ruin][/tip]x[inventory=Tablet of Ruin][/td][
+                                ][td][tip=Sword of Ruin][item=Sword of Ruin][/tip]x[inventory=Sword of Ruin][/td][
+                                ][td][tip=Vessel of Ruin][item=Vessel of Ruin][/tip]x[inventory=Vessel of Ruin][/td][
+                                ][td][tip=Beads of Ruin][item=Beads of Ruin][/tip]x[inventory=Beads of Ruin][/td][
+                                ][td][tip=Mask of Strength][item=Mask of Strength][/tip]x[inventory=Mask of Strength][/td][
+                                ][td][tip=Mask of Cleverness][item=Mask of Cleverness][/tip]x[inventory=Mask of Cleverness][/td][
+                                ][td][tip=Mask of Beauty][item=Mask of Beauty][/tip]x[inventory=Mask of Beauty][/td][
+                            ][/tr][
+                            ][tr][
+                                ][th] [/th][
+                                ][td][tip=Stellar Crystal][item=Stellar Crystal][/tip]x[inventory=Stellar Crystal][/td][
+                                ][td][tip=Teal Mask][item=Teal Mask][/tip]x[inventory=Teal Mask][/td][
+                                ][td][tip=Mythical Pecha Berry][item=Mythical Pecha Berry][/tip]x[inventory=Mythical Pecha Berry][/td][
+                                ][td] [/td][
+                                ][td] [/td][
+                                ][td] [/td][
+                                ][td] [/td][
+                                ][td] [/td][
+                            ][/tr][
+                            ][tr][
                                 ][th]PFQ[/th][
                                 ][td][tip=Mage Orb][item=Mage Orb][/tip]x[inventory=Mage Orb][/td][
                                 ][td][tip=Lucky Seal][item=Lucky Seal][/tip]x[inventory=lucky seal][/td][
@@ -258,7 +302,7 @@
                     ][styleclass="inventory-wrapper"][
                         ][table][
                             ][tr][
-                                ][th=5x1]Stones[/th][
+                                ][th=5x1]Evolution Stones[/th][
                             ][/tr][
                             ][tr][
                                 ][td][tip=Dawn Stone][item=Dawn Stone][/tip] x[inventory=Dawn Stone][/td][
@@ -285,39 +329,82 @@
                                 ][th=5x1]Evolution Items[/th][
                             ][/tr][
                             ][tr][
+                                ][td][tip=Auspicious Armour][item=Auspicious Armour][/tip] x[inventory=Auspicious Armour][/td][
+                                ][td][tip=Black Augurite][item=Black Augurite][/tip] x[inventory=Black Augurite][/td][
+                                ][td][tip=Black Sludge][item=Black Sludge][/tip] x[inventory=Black Sludge][/td][
+                                ][td][tip=Cracked Teapot][item=Cracked Teapot][/tip] x[inventory=Cracked Teapot][/td][
                                 ][td][tip=DeepSeaScale][item=DeepSeaScale][/tip] x[inventory=DeepSeaScale][/td][
+                            ][/tr][
+                            ][tr][
                                 ][td][tip=DeepSeaTooth][item=DeepSeaTooth][/tip] x[inventory=DeepSeaTooth][/td][
                                 ][td][tip=Dragon Scale][item=Dragon Scale][/tip] x[inventory=Dragon Scale][/td][
                                 ][td][tip=Dubious Disk][item=Dubious Disk][/tip] x[inventory=Dubious Disk][/td][
                                 ][td][tip=Electiriser][item=Electiriser][/tip] x[inventory=Electiriser][/td][
+                                ][td][tip=Galarica Cuff][item=Galarica Cuff][/tip] x[inventory=Galarica Cuff][/td][
                             ][/tr][
                             ][tr][
+                                ][td][tip=Galarica Wreath][item=Galarica Wreath][/tip] x[inventory=Galarica Wreath][/td][
+                                ][td][tip=King's Rock][item=King's Rock][/tip] x[inventory=King's Rock][/td][
+                                ][td][tip=Leek][item=Leek][/tip] x[inventory=Leek][/td][
+                                ][td][tip=Leader's Crest][item=Leader's Crest][/tip] x[inventory=Leader's Crest][/td][
                                 ][td][tip=Magmariser][item=Magmariser][/tip] x[inventory=Magmariser][/td][
+                            ][/tr][
+                            ][tr][
+                                ][td][tip=Malicious Armour][item=Malicious Armour][/tip] x[inventory=Malicious Armour][/td][
+                                ][td][tip=Metal Alloy][item=Metal Alloy][/tip] x[inventory=Metal Alloy][/td][
                                 ][td][tip=Metal Coat][item=Metal Coat][/tip] x[inventory=Metal Coat][/td][
+                                ][td][tip=Peat Block][item=Peat Block][/tip] x[inventory=Peat Block][/td][
                                 ][td][tip=Protector][item=Protector][/tip] x[inventory=Protector][/td][
+                            ][/tr][
+                            ][tr][
                                 ][td][tip=Razor Claw][item=Razor Claw][/tip] x[inventory=Razor Claw][/td][
                                 ][td][tip=Razor Fang][item=Razor Fang][/tip] x[inventory=Razor Fang][/td][
+                                ][td][tip=Reaper Cloth][item=Reaper Cloth][/tip] x[inventory=Reaper Cloth][/td][
+                                ][td][tip=Savoury Orange][item=Savoury Orange][/tip] x[inventory=Savoury Orange][/td][
+                                ][td][tip=Sticky Barb][item=Sticky Barb][/tip] x[inventory=Sticky Barb][/td][
                             ][/tr][
                             ][tr][
-                                ][td][tip=Reaper Cloth][item=Reaper Cloth][/tip] x[inventory=Reaper Cloth][/td][
+                                ][td][tip=Sweet Apple][item=Sweet Apple][/tip] x[inventory=Sweet Apple][/td][
+                                ][td][tip=Syrupy Apple][item=Syrupy Apple][/tip] x[inventory=Syrupy Apple][/td][
+                                ][td][tip=Tart Apple][item=Tart Apple][/tip] x[inventory=Tart Apple][/td][
+                                ][td][tip=Unremarkable Teacup][item=Unremarkable Teacup][/tip] x[inventory=Unremarkable Teacup][/td][
                                 ][td][tip=Up-Grade][item=Up-Grade][/tip] x[inventory=Up-Grade][/td][
-                                ][td][tip=King's Rock][item=King's Rock][/tip] x[inventory=King's Rock][/td][
-                                ][td][tip=Sachet][item=Sachet][/tip] x[inventory=Sachet][/td][
+                            ][/tr][
+                            ][tr][
+                                
                                 ][td][tip=Whipped Dream][item=Whipped Dream][/tip] x[inventory=Whipped Dream][/td][
+                                ][td] [/td][
+                                ][td] [/td][
+                                ][td] [/td][
+                                ][td] [/td][
                             ][/tr][
                             ][tr][
                                 ][th=5x1]Special Evolutionary Items[/th][
                             ][/tr][
                             ][tr][
+                                ][td][tip=Apricorn][item=Apricorn][/tip] x[inventory=Apricorn][/td][
                                 ][td][tip=Ancient Power Orb][item=Ancient Power Orb][/tip] x[inventory=Ancient Power Orb][/td][
+                                ][td][tip=Barb Barrage Orb][item=Barb Barrage Orb][/tip] x[inventory=Barb Barrage Orb][/td][
                                 ][td][tip=Double Hit Orb][item=Double Hit Orb][/tip] x[inventory=Double Hit Orb][/td][
+                                ][td][tip=Dragon Cheer Orb][item=Dragon Cheer Orb][/tip] x[inventory=Dragon Cheer Orb][/td][
+                            ][/tr][
+                            ][tr][
+                                ][td][tip=Dragon Pulse Orb][item=Dragon Pulse Orb][/tip] x[inventory=Dragon Pulse Orb][/td][
+                                ][td][tip=Hyper Drill Orb][item=Hyper Drill Orb][/tip] x[inventory=Hyper Drill Orb][/td][
                                 ][td][tip=Mimic Orb][item=Mimic Orb][/tip] x[inventory=Mimic Orb][/td][
                                 ][td][tip=Rollout Orb][item=Rollout Orb][/tip] x[inventory=Rollout Orb][/td][
                                 ][td][tip=Stomp Orb][item=Stomp Orb][/tip] x[inventory=Stomp Orb][/td][
                             ][/tr][
                             ][tr][
-                                ][td][tip=Dragon Pulse Orb][item=Dragon Pulse Orb][/tip] X[inventory=Dragon Pulse Orb][/td][
+                                ][td][tip=Psyshield Bash Orb][item=Psyshield Bash Orb][/tip] x[inventory=Psyshield Bash Orb][/td][
+                                ][td][tip=Rage Fist Orb][item=Rage Fist Orb][/tip] x[inventory=Rage Fist Orb][/td][
+                                ][td][tip=Taunt Orb][item=Taunt Orb][/tip] x[inventory=Taunt Orb][/td][
+                                ][td][tip=Twin Beam Orb][item=Twin Beam Orb][/tip] x[inventory=Twin Beam Orb][/td][
+                                ][td][tip=Time Flower][item=Time Flower][/tip] x[inventory=Time Flower][/td][
+                            ][/tr][
+                            ][tr][
                                 ][td][tip=Everstone][item=Everstone][/tip] x[inventory=Everstone][/td][
+                                ][td] [/td][
                                 ][td] [/td][
                                 ][td] [/td][
                                 ][td] [/td][
@@ -363,8 +450,16 @@
                                 ][td][tip=Wash Sparkplug][item=Wash Sparkplug][/tip] x[inventory=Wash Sparkplug][/td][
                                 ][td][tip=Bindi][item=Bindi][/tip] x[inventory=Bindi][/td][
                                 ][td][tip=King's Shield][item=King's Shield][/tip] x[inventory=King's Shield][/td][
+                                ][td][tip=Leftovers][item=Leftovers][/tip] x[inventory=Leftovers][/td][
                                 ][td][tip=Glimmering Scale][item=Glimmering Scale][/tip] x[inventory=Glimmering Scale][/td][
+                            ][/tr][
+                            ][tr][
                                 ][td][tip=X-Ray Specs][item=X-Ray Specs][/tip] x[inventory=X-Ray Specs][/td][
+                                ][td][tip=Dragon Ball][item=Dragon Ball][/tip] x[inventory=Dragon Ball][/td][
+                                ][td] [/td][
+                                ][td] [/td][
+                                ][td] [/td][
+                                ][td] [/td][
                             ][/tr][
                             ][tr][
                                 ][th=6x1]Special Forme-Changers[/th][
@@ -435,9 +530,25 @@
                             ][/tr][
                             ][tr][
                                 ][td][tip=Prison Bottle][item=Prison Bottle][/tip] x[inventory=Prison Bottle][/td][
-                                ][td][tip=Dragon Ball][item=Dragon ball][/tip] x[inventory=Dragon Ball][/td][
                                 ][td][tip=Ultranecrozium Z][item=Ultranecrozium Z][/tip] x[inventory=Ultranecrozium Z][/td][
-                                ][td] [/td][
+                                ][td][tip=Wellspring Mask][item=Wellspring Mask][/tip] x[inventory=Wellspring Mask][/td][
+                                ][td][tip=Cornerstone Mask][item=Cornerstone Mask][/tip] x[inventory=Cornerstone Mask][/td][
+                                ][td][tip=Hearthflame Mask][item=Hearthflame Mask][/tip] x[inventory=Hearthflame Mask][/td][
+                                ][td][tip=Scarlet Book][item=Scarlet Book][/tip] x[inventory=Scarlet Book][/td][
+                            ][/tr][
+                            ][tr][
+                                ][td][tip=Violet Book][item=Violet Book][/tip] x[inventory=Violet Book][/td][
+                                ][td][tip=Adamant Orb][item=Adamant Orb][/tip] x[inventory=Adamant Orb][/td][
+                                ][td][tip=Lustrous Orb][item=Lustrous Orb][/tip] x[inventory=Lustrous Orb][/td][
+                                ][td][tip=Griseous Orb][item=Griseous Orb][/tip] x[inventory=Griseous Orb][/td][
+                                ][td][tip=Rusted Sword][item=Rusted Sword][/tip] x[inventory=Rusted Sword][/td][
+                                ][td][tip=Rusted Shield][item=Rusted Shield][/tip] x[inventory=Rusted Shield][/td][
+                            ][/tr][
+                            ][tr][
+                                ][td][tip=Teal Mask][item=Teal Mask][/tip] x[inventory=Teal Mask][/td][
+                                ][td][tip=Stellar Tera Shard][item=Stellar Tera Shard][/tip] x[inventory=Stellar Tera Shard][/td][
+                                ][td][tip=Bouquet][item=Bouquet][/tip] x[inventory=Bouquet][/td][
+                                ][td][tip=Peat Block][item=Peat Block][/tip] x[inventory=Peat Block][/td][
                                 ][td] [/td][
                                 ][td] [/td][
                             ][/tr][
