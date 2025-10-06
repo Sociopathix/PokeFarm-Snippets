@@ -32,6 +32,16 @@
             
                 ][styleclass="page-content"][
                 
+                    ][styleclass="status-wrapper"][
+                        
+                        ][styleclass="closed"][
+                            
+                            ]Test[
+                            
+                        ][/styleclass][
+                    
+                    ][/styleclass][
+                
                     ][styleclass="intro"][
                     
                         ][h2]Introduction[/h2][
@@ -248,7 +258,7 @@
                                 ][td]PeachieID[/td][
                                 ][td]Trade Shop[/td][
                                 ][td]Custom[/td][
-                                ][td]5k GP[/td][
+                                ][td]GP[/td][
                                 ][td]Complete[/td][
                             ][/tr][
                         
@@ -273,6 +283,10 @@
                     ][br][
                     
                     ]Click the following links to go to posts with some of the past projects I've worked on for PFQ. Other CSS work I've done off-site can be requested by PMing me![
+                    
+                    ][br][br][
+                    
+                    ][i]Obviously, there's not a whole lot here right now, but hopefully there'll be more as I work on more templates (for others and myself)![/i][
                     
                     ][br][br][
                     ]· · ─ ‧₊˚❀༉‧₊˚. ─ · ·[
@@ -1280,5 +1294,43 @@ b]Vibe / Theme:[/b] e.g., pastel, spooky, cozy
                 padding-right: 4px;
             }
         }
+    }
+    
+    .open
+    {
+        visibility: hidden;
+        margin-top: 16px;
+        margin-bottom: 24px;
+    }
+    
+    .open:after {
+        content:"We're Open!";
+        font-weight: bold;
+        margin-left: -24px;
+        border: 2px solid DarkOliveGreen;
+        border-radius: 8px;
+        padding: 8px;
+        visibility: visible;
+        background-color: OliveDrab;
+        color: white;
+    }
+    
+    .closed
+    {
+        visibility: hidden;
+        margin-top: 24px;
+        margin-bottom: 32px;
+    }
+    
+    .closed:after {
+        content: "We're Closed!";
+        font-weight: bold;
+        margin-left: -24px;
+        border: 2px solid maroon;
+        border-radius: 8px;
+        padding: 8px;
+        visibility: visible;
+        background-color: firebrick;
+        color: white;
     }
 [/style]
