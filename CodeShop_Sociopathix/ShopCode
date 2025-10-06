@@ -34,7 +34,7 @@
                 
                     ][styleclass="status-wrapper"][
                         
-                        ][styleclass="closed"][
+                        ][styleclass="open"][
                             
                             ]Test[
                             
@@ -1299,8 +1299,8 @@ b]Vibe / Theme:[/b] e.g., pastel, spooky, cozy
     .open
     {
         visibility: hidden;
-        margin-top: 16px;
-        margin-bottom: 24px;
+        margin-top: 24px;
+        margin-bottom: 32px;
     }
     
     .open:after {
