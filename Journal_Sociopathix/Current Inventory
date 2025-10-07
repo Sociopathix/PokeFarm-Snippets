@@ -1,0 +1,1726 @@
+[styleclass="content-wrapper"][
+
+    ][styleclass="banner-wrapper"][
+        
+        ][styleclass="credit"][
+            ][pit="credit"]Code @[url=https://pokefarm.com/user/Sociopathix]Sociopathix[/url][/pit][
+        ][/styleclass][
+        
+        ][styleclass="banner-text"][
+            ]Current Inventory[
+        ][/styleclass][
+        
+    ][/styleclass][
+    
+    ][styleclass="page-wrapper"][
+    
+        ][styleclass="page-content"][
+        
+            ][styleclass="inventory-section"][
+            
+                ][accordion][
+                
+                    ][a-section="Currency"][
+                        
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                                
+                                ][tr][
+                                    ][th]Currency[/th][
+                                    ][th]Amount[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip="Credits"][item="Credits"][/tip][/td][
+                                    ][td][number][inventory="Credits"][/number][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip="Gold Poké"][item="Gold"][/tip][/td][
+                                    ][td][number][inventory="Gold"][/number][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip="Zophan Crates"][item="Zophan"][/tip][/td][
+                                    ][td][number][inventory="Zophan"][/number][/td][
+                                ][/tr][
+                                
+                            ][/table][
+                    
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Account Upgrades"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                            
+                                ][tr][
+                                    ][th="6x1"][
+                                        ]Account Upgrades[
+                                    ][/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip="Shelter Pass C"][item="Shelter Pass C"][/tip] x [inventory="Shelter Pass C"][/td][
+                                    ][td][tip="Shelter Pass B"][item="Shelter Pass B"][/tip] x [inventory="Shelter Pass B"][/td][
+                                    ][td][tip="Shelter Pass A"][item="Shelter Pass A"][/tip] x [inventory="Shelter Pass A"][/td][
+                                    ][td][tip="Shelter Pass S"][item="Shelter Pass S"][/tip] x [inventory="Shelter Pass S"][/td][
+                                    ][td][tip="Shelter Pass X"][item="Shelter Pass X"][/tip] x [inventory="Shelter Pass X"][/td][
+                                    ][td][tip="Shelter Pass ★"][item="Shelter Pass ★"][/tip] x [inventory="Shelter Pass ★"][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip="Black Flute"][item="Black Flute"][/tip] x [inventory="Black Flute"][/td][
+                                    ][td][tip="White Flute"][item="White Flute"][/tip] x [inventory="White Flute"][/td][
+                                    ][td][tip="Scour Boost"][item="Scour Boost"][/tip] x [inventory="Scour Boost"][/td][
+                                    ][td][tip="Scour Slot"][item="Scour Slot"][/tip] x [inventory="Scour Slot"][/td][
+                                    ][td][tip=SpyGlass][item=SpyGlass][/tip] x [inventory=SpyGlass][/td][
+                                    ][td][tip=Red Gigaremo][item=Red Gigaremo][/tip] x [inventory=Red Gigaremo][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Matchup Checker][item=Matchup Checker][/tip] x [inventory=Matchup Checker][/td][
+                                    ][td][tip=Destiny Knot][item=Destiny Knot][/tip] x [inventory=Destiny Knot][/td][
+                                    ][td][tip=DayCare Pass][item=DayCare Pass][/tip] x [inventory=DayCare Pass][/td][
+                                    ][td][tip=DayCare EXP Booster][item=DayCare EXP Booster][/tip] x [inventory=DayCare EXP Booster][/td][
+                                    ][td][tip=Lucky Seal][item=Lucky Seal][/tip] x [inventory=Lucky Seal][/td][
+                                    ][td][tip=Premium Box][item=Premium Box][/tip] x [inventory=Premium Box][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=PokéRadar][item=PokéRadar][/tip] x [inventory=PokéRadar][/td][
+                                    ][td][tip=PokéRadar+][item=PokéRadar+][/tip] x [inventory=PokéRadar+][/td][
+                                    ][td][tip=Albino Radar][item=Albino Radar][/tip] x [inventory=Albino Radar][/td][
+                                    ][td][tip=Shiny Charm][item=Shiny Charm][/tip] x [inventory=Shiny Charm][/td][
+                                    ][td][tip=Dead Shiny Charm][item=Dead Shiny Charm][/tip] x [inventory=Dead Shiny Charm][/td][
+                                    ][td][tip=Shiny Charm Box][item=Shiny Charm Box][/tip] x [inventory=Shiny Charm Box][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Übercharm][item=Übercharm][/tip] x [inventory=Übercharm][/td][
+                                    ][td][tip=Egg Pass][item=Egg Pass][/tip] x [inventory=Egg Pass][/td][
+                                    ][td][tip=Money Safe][item=Money Safe][/tip] x [inventory=Money Safe][/td][
+                                    ][td][tip=Lab Reloader][item=Lab Reloader][/tip] x [inventory=Lab Reloader][/td][
+                                    ][td][tip=Egg Supplier Pass][item=Egg Supplier Pass][/tip] x [inventory=Egg Supplier Pass][/td][
+                                    ][td][tip=BFM][item=BFM]x[inventory=BFM][/tip][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Pokewalker][item=Pokewalker]x[inventory=Pokewalker][/tip][/td][
+                                    ][td][tip=Exp.Share][item=Exp. Share]x[inventory=Exp. Share][/tip][/td][
+                                    ][td][tip=Lucky Egg][item=Lucky Egg]x[inventory=Lucky Egg][/tip][/td][
+                                    ][td][tip=Super Lucky Egg][item=Super Lucky Egg]x[inventory=Super Lucky Egg][/tip][/td][
+                                    ][td][tip=Trade Centre Expansion][item=Trade Centre Expansion]x[inventory=Trade Centre Expansion][/tip][/td][
+                                    ][td][tip=Ditto Egg Voucher][item=Ditto Egg Voucher][/tip] x[inventory=Ditto Egg Voucher][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Blue Gigaremo][item=Blue Gigaremo][/tip] x[inventory=Blue Gigaremo][/td][
+                                    ][td][tip=Type: Null Egg Voucher][item=Type: Null Egg Voucher][/tip] x[inventory=Type: Null Egg Voucher][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                            
+                            ][/table][
+                        
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Evolution Items"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                            
+                                ][tr][
+                                    ][th=4x1]Stones[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Dawn Stone][item=Dawn Stone][/tip] x[inventory=Dawn Stone][/td][
+                                    ][td][tip=Dusk Stone][item=Dusk Stone][/tip] x[inventory=Dusk Stone][/td][
+                                    ][td][tip=Fire Stone][item=Fire Stone][/tip] x[inventory=Fire Stone][/td][
+                                    ][td][tip=Leaf Stone][item=Leaf Stone][/tip] x[inventory=Leaf Stone][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Moon Stone][item=Moon Stone][/tip] x[inventory=Moon Stone][/td][
+                                    ][td][tip=Oval Stone][item=Oval Stone][/tip] x[inventory=Oval Stone][/td][
+                                    ][td][tip=Shiny Stone][item=Shiny Stone][/tip] x[inventory=Shiny Stone][/td][
+                                    ][td][tip=Sun Stone][item=Sun Stone][/tip] x[inventory=Sun Stone][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Water Stone][item=Water Stone][/tip] x[inventory=Water Stone][/td][
+                                    ][td][tip=ThunderStone][item=ThunderStone][/tip] x[inventory=ThunderStone][/td][
+                                    ][td][tip=Ice Stone][item=Ice Stone][/tip] x[inventory=Ice Stone][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th="4x1"]Evolution Items[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Auspicious Armour][item=Auspicious Armour][/tip] x[inventory=Auspicious Armour][/td][
+                                    ][td][tip=Black Augurite][item=Black Augurite][/tip] x[inventory=Black Augurite][/td][
+                                    ][td][tip=Black Sludge][item=Black Sludge][/tip] x[inventory=Black Sludge][/td][
+                                    ][td][tip=Cracked Teapot][item=Cracked Teapot][/tip] x[inventory=Cracked Teapot][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=DeepSeaScale][item=DeepSeaScale][/tip] x[inventory=DeepSeaScale][/td][
+                                    ][td][tip=DeepSeaTooth][item=DeepSeaTooth][/tip] x[inventory=DeepSeaTooth][/td][
+                                    ][td][tip=Dragon Scale][item=Dragon Scale][/tip] x[inventory=Dragon Scale][/td][
+                                    ][td][tip=Dubious Disk][item=Dubious Disk][/tip] x[inventory=Dubious Disk][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Electiriser][item=Electiriser][/tip] x[inventory=Electiriser][/td][
+                                    ][td][tip=Galarica Cuff][item=Galarica Cuff][/tip] x[inventory=Galarica Cuff][/td][
+                                    ][td][tip=Galarica Wreath][item=Galarica Wreath][/tip] x[inventory=Galarica Wreath][/td][
+                                    ][td][tip=King's Rock][item=King's Rock][/tip] x[inventory=King's Rock][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Leek][item=Leek][/tip] x[inventory=Leek][/td][
+                                    ][td][tip=Leader's Crest][item=Leader's Crest][/tip] x[inventory=Leader's Crest][/td][
+                                    ][td][tip=Magmariser][item=Magmariser][/tip] x[inventory=Magmariser][/td][
+                                    ][td][tip=Malicious Armour][item=Malicious Armour][/tip] x[inventory=Malicious Armour][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Metal Alloy][item=Metal Alloy][/tip] x[inventory=Metal Alloy][/td][
+                                    ][td][tip=Metal Coat][item=Metal Coat][/tip] x[inventory=Metal Coat][/td][
+                                    ][td][tip=Peat Block][item=Peat Block][/tip] x[inventory=Peat Block][/td][
+                                    ][td][tip=Protector][item=Protector][/tip] x[inventory=Protector][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Razor Claw][item=Razor Claw][/tip] x[inventory=Razor Claw][/td][
+                                    ][td][tip=Razor Fang][item=Razor Fang][/tip] x[inventory=Razor Fang][/td][
+                                    ][td][tip=Reaper Cloth][item=Reaper Cloth][/tip] x[inventory=Reaper Cloth][/td][
+                                    ][td][tip=Sachet][item=Sachet][/tip] x[inventory=Sachet][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Savoury Orange][item=Savoury Orange][/tip] x[inventory=Savoury Orange][/td][
+                                    ][td][tip=Sticky Barb][item=Sticky Barb][/tip] x[inventory=Sticky Barb][/td][
+                                    ][td][tip=Sweet Apple][item=Sweet Apple][/tip] x[inventory=Sweet Apple][/td][
+                                    ][td][tip=Syrupy Apple][item=Syrupy Apple][/tip] x[inventory=Syrupy Apple][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Tart Apple][item=Tart Apple][/tip] x[inventory=Tart Apple][/td][
+                                    ][td][tip=Unremarkable Teacup][item=Unremarkable Teacup][/tip] x[inventory=Unremarkable Teacup][/td][
+                                    ][td][tip=Up-Grade][item=Up-Grade][/tip] x[inventory=Up-Grade][/td][
+                                    ][td][tip=Whipped Dream][item=Whipped Dream][/tip] x[inventory=Whipped Dream][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th="4x1"]Special Evolution Items[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Ancient Power Orb][item=Ancient Power Orb][/tip] x[inventory=Ancient Power Orb][/td][
+                                    ][td][tip=Apricorn][item=Apricorn][/tip] x[inventory=Apricorn][/td][
+                                    ][td][tip=Barb Barrage Orb][item=Barb Barrage Orb][/tip] x[inventory=Barb Barrage Orb][/td][
+                                    ][td][tip=Double Hit Orb][item=Double Hit Orb][/tip] x[inventory=Double Hit Orb][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Dragon Cheer Orb][item=Dragon Cheer Orb][/tip] x[inventory=Dragon Cheer Orb][/td][
+                                    ][td][tip=Dragon Pulse Orb][item=Dragon Pulse Orb][/tip] x[inventory=Dragon Pulse Orb][/td][
+                                    ][td][tip=Hyper Drill Orb][item=Hyper Drill Orb][/tip] x[inventory=Hyper Drill Orb][/td][
+                                    ][td][tip=Mimic Orb][item=Mimic Orb][/tip] x[inventory=Mimic Orb][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Psyshield Bash Orb][item=Psyshield Bash Orb][/tip] x[inventory=Psyshield Bash Orb][/td][
+                                    ][td][tip=Rage Fist Orb][item=Rage Fist Orb][/tip] x[inventory=Rage Fist Orb][/td][
+                                    ][td][tip=Rollout Orb][item=Rollout Orb][/tip] x[inventory=Rollout Orb][/td][
+                                    ][td][tip=Stomp Orb][item=Stomp Orb][/tip] x[inventory=Stomp Orb][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Taunt Orb][item=Taunt Orb][/tip] x[inventory=Taunt Orb][/td][
+                                    ][td][tip=Time Flower][item=Time Flower][/tip] x[inventory=Time Flower][/td][
+                                    ][td][tip=Twin Beam Orb][item=Twin Beam Orb][/tip] x[inventory=Twin Beam Orb][/td][
+                                    ][td][tip=Everstone][item=Everstone][/tip] x[inventory=Everstone][/td][
+                                ][/tr][
+                            
+                            ][/table][
+                        
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Forme-Change Items"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                            
+                                ][tr][
+                                    ][th="5x1"]Forme Change Items[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Rain Jewel][item=Rain Jewel][/tip] x[inventory=Rain Jewel][/td][
+                                    ][td][tip=Snow Jewel][item=Snow Jewel][/tip] x[inventory=Snow Jewel][/td][
+                                    ][td][tip=Sun Jewel][item=Sun Jewel][/tip] x[inventory=Sun Jewel][/td][
+                                    ][td][tip=Fan Sparkplug][item=Fan Sparkplug][/tip] x[inventory=Fan Sparkplug][/td][
+                                    ][td][tip=Frost Sparkplug][item=Frost Sparkplug][/tip] x[inventory=Frost Sparkplug][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Heat Sparkplug][item=Heat Sparkplug][/tip] x[inventory=Heat Sparkplug][/td][
+                                    ][td][tip=Mow Sparkplug][item=Mow Sparkplug][/tip] x[inventory=Mow Sparkplug][/td][
+                                    ][td][tip=Wash Sparkplug][item=Wash Sparkplug][/tip] x[inventory=Wash Sparkplug][/td][
+                                    ][td][tip=Bindi][item=Bindi][/tip] x[inventory=Bindi][/td][
+                                    ][td][tip=King's Shield][item=King's Shield][/tip] x[inventory=King's Shield][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Leftovers][item=Leftovers][/tip] x[inventory=Leftovers][/td][
+                                    ][td][tip=Glimmering Scale][item=Glimmering Scale][/tip] x[inventory=Glimmering Scale][/td][
+                                    ][td][tip=X-Ray Specs][item=X-Ray Specs][/tip] x[inventory=X-Ray Specs][/td][
+                                    ][td][tip=Dragon Ball][item=Dragon Ball][/tip] x[inventory=Dragon Ball][/td][
+                                    ][td][tip=Meteorite Shard A][item=Meteorite Shard A][/tip] x[inventory=Meteorite Shard A][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Meteorite Shard D][item=Meteorite Shard D][/tip] x[inventory=Meteorite Shard D][/td][
+                                    ][td][tip=Meteorite Shard S][item=Meteorite Shard S][/tip] x[inventory=Meteorite Shard S][/td][
+                                    ][td][tip=Gracidea][item=Gracidea][/tip] x[inventory=Gracidea][/td][
+                                    ][td][tip=Reveal Glass][item=Reveal Glass][/tip] x[inventory=Reveal Glass][/td][
+                                    ][td][tip=Secret Sword][item=Secret Sword][/tip] x[inventory=Secret Sword][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Burn Drive][item=Burn Drive][/tip] x[inventory=Burn Drive][/td][
+                                    ][td][tip=Chill Drive][item=Chill Drive][/tip] x[inventory=Chill Drive][/td][
+                                    ][td][tip=Douse Drive][item=Douse Drive][/tip] x[inventory=Douse Drive][/td][
+                                    ][td][tip=Shock Drive][item=Shock Drive][/tip] x[inventory=Shock Drive][/td][
+                                    ][td][tip=Prison Bottle][item=Prison Bottle][/tip] x[inventory=Prison Bottle][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Ultranecrozium Z][item=Ultranecrozium Z][/tip] x[inventory=Ultranecrozium Z][/td][
+                                    ][td][tip=Wellspring Mask][item=Wellspring Mask][/tip] x[inventory=Wellspring Mask][/td][
+                                    ][td][tip=Cornerstone Mask][item=Cornerstone Mask][/tip] x[inventory=Cornerstone Mask][/td][
+                                    ][td][tip=Hearthflame Mask][item=Hearthflame Mask][/tip] x[inventory=Hearthflame Mask][/td][
+                                    ][td][tip=Blue Orb][item=Blue Orb][/tip] x[inventory=Blue Orb][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Mythrite][item=Mythrite][/tip] x[inventory=Mythrite][/td][
+                                    ][td][tip=Opal][item=Opal][/tip] x[inventory=Opal][/td][
+                                    ][td][tip=Red Orb][item=Red Orb][/tip] x[inventory=Red Orb][/td][
+                                    ][td][tip=Scarlet Book][item=Scarlet Book][/tip] x[inventory=Scarlet Book][/td][
+                                    ][td][tip=Violet Book][item=Violet Book][/tip] x[inventory=Violet Book][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th="5x1"]Special Forme Change Items[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Adamant Orb][item=Adamant Orb][/tip] x[inventory=Adamant Orb][/td][
+                                    ][td][tip=Lustrous Orb][item=Lustrous Orb][/tip] x[inventory=Lustrous Orb][/td][
+                                    ][td][tip=Griseous Orb][item=Griseous Orb][/tip] x[inventory=Griseous Orb][/td][
+                                    ][td][tip=Flame Plate][item=Flame Plate][/tip] x[inventory=Flame Plate][/td][
+                                    ][td][tip=Splash Plate][item=Splash Plate][/tip] x[inventory=Splash Plate][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Zap Plate][item=Zap Plate][/tip] x[inventory=Zap Plate][/td][
+                                    ][td][tip=Meadow Plate][item=Meadow Plate][/tip] x[inventory=Meadow Plate][/td][
+                                    ][td][tip=Icicle Plate][item=Icicle Plate][/tip] x[inventory=Icicle Plate][/td][
+                                    ][td][tip=Fist Plate][item=Fist Plate][/tip] x[inventory=Fist Plate][/td][
+                                    ][td][tip=Toxic Plate][item=Toxic Plate][/tip] x[inventory=Toxic Plate][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Earth Plate][item=Earth Plate][/tip] x[inventory=Earth Plate][/td][
+                                    ][td][tip=Sky Plate][item=Sky Plate][/tip] x[inventory=Sky Plate][/td][
+                                    ][td][tip=Mind Plate][item=Mind Plate][/tip] x[inventory=Mind Plate][/td][
+                                    ][td][tip=Insect Plate][item=Insect Plate][/tip] x[inventory=Insect Plate][/td][
+                                    ][td][tip=Stone Plate][item=Stone Plate][/tip] x[inventory=Stone Plate][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Spooky Plate][item=Spooky Plate][/tip] x[inventory=Spooky Plate][/td][
+                                    ][td][tip=Draco Plate][item=Draco Plate][/tip] x[inventory=Draco Plate][/td][
+                                    ][td][tip=Dread Plate][item=Dread Plate][/tip] x[inventory=Dread Plate][/td][
+                                    ][td][tip=Iron Plate][item=Iron Plate][/tip] x[inventory=Iron Plate][/td][
+                                    ][td][tip=Pixie Plate][item=Pixie Plate][/tip] x[inventory=Pixie Plate][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Fire Memory][item=Fire Memory][/tip] x[inventory=Fire Memory][/td][
+                                    ][td][tip=Water Memory][item=Water Memory][/tip] x[inventory=Water Memory][/td][
+                                    ][td][tip=Electric Memory][item=Electric Memory][/tip] x[inventory=Electric Memory][/td][
+                                    ][td][tip=Grass Memory][item=Grass Memory][/tip] x[inventory=Grass Memory][/td][
+                                    ][td][tip=Ice Memory][item=Ice Memory][/tip] x[inventory=Ice Memory][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Fighting Memory][item=Fighting Memory][/tip] x[inventory=Fighting Memory][/td][
+                                    ][td][tip=Poison Memory][item=Poison Memory][/tip] x[inventory=Poison Memory][/td][
+                                    ][td][tip=Ground Memory][item=Ground Memory][/tip] x[inventory=Ground Memory][/td][
+                                    ][td][tip=Flying Memory][item=Flying Memory][/tip] x[inventory=Flying Memory][/td][
+                                    ][td][tip=Psychic Memory][item=Psychic Memory][/tip] x[inventory=Psychic Memory][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Bug Memory][item=Bug Memory][/tip] x[inventory=Bug Memory][/td][
+                                    ][td][tip=Rock Memory][item=Rock Memory][/tip] x[inventory=Rock Memory][/td][
+                                    ][td][tip=Ghost Memory][item=Ghost Memory][/tip] x[inventory=Ghost Memory][/td][
+                                    ][td][tip=Dragon Memory][item=Dragon Memory][/tip] x[inventory=Dragon Memory][/td][
+                                    ][td][tip=Dark Memory][item=Dark Memory][/tip] x[inventory=Dark Memory][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Steel Memory][item=Steel Memory][/tip] x[inventory=Steel Memory][/td][
+                                    ][td][tip=Fairy Memory][item=Fairy Memory][/tip] x[inventory=Fairy Memory][/td][
+                                    ][td][tip=Rusted Sword][item=Rusted Sword][/tip] x[inventory=Rusted Sword][/td][
+                                    ][td][tip=Rusted Shield][item=Rusted Shield][/tip] x[inventory=Rusted Shield][/td][
+                                    ][td][tip=Teal Mask][item=Teal Mask][/tip] x[inventory=Teal Mask][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Stellar Tera Shard][item=Stellar Tera Shard][/tip] x[inventory=Stellar Tera Shard][/td][
+                                    ][td][tip=Bouquet][item=Bouquet][/tip] x[inventory=Bouquet][/td][
+                                    ][td][tip=Peat Block][item=Peat Block][/tip] x[inventory=Peat Block][/td][
+                                    ][td][tip=Music Box][item=Music Box][/tip] x[inventory=Music Box][/td][
+                                    ][td][/td][
+                                ][/tr][
+                            
+                            ][/table][
+                        
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Summon Items"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                            
+                            ][table][
+                            
+                                ][tr][
+                                    ][th="6x1"]Kanto[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Ice Feather][item=Ice Feather][/tip] x[inventory=Ice Feather][/td][
+                                    ][td][tip=Psychic Feather][item=Psychic Feather][/tip] x[inventory=Psychic Feather][/td][
+                                    ][td][tip=Thunder Feather][item=Thunder Feather][/tip] x[inventory=Thunder Feather][/td][
+                                    ][td][tip=Combat Feather][item=Combat Feather][/tip] x[inventory=Combat Feather][/td][
+                                    ][td][tip=Fire Feather][item=Fire Feather][/tip] x[inventory=Fire Feather][/td][
+                                    ][td][tip=Rage Feather][item=Rage Feather][/tip] x[inventory=Rage Feather][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Cloned Sash][item=Cloned Sash][/tip] x[inventory=Cloned Sash][/td][
+                                    ][td][tip=Origin Sash][item=Origin Sash][/tip] x[inventory=Origin Sash][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th="6x1"]Johto[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Thunder Fang][item=Thunder Fang][/tip] x[inventory=Thunder Fang][/td][
+                                    ][td][tip=Fire Fang][item=Fire Fang][/tip] x[inventory=Fire Fang][/td][
+                                    ][td][tip=Ice Fang][item=Ice Fang][/tip] x[inventory=Ice Fang][/td][
+                                    ][td][tip=Tidal Bell][item=Tidal Bell][/tip] x[inventory=Tidal Bell][/td][
+                                    ][td][tip=Clear Bell][item=Clear Bell][/tip] x[inventory=Clear Bell][/td][
+                                    ][td][tip=GS Ball][item=GS Ball][/tip] x[inventory=GS Ball][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th="6x1"]Hoenn[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Sapphire Orb][item=Sapphire Orb][/tip] x[inventory=Sapphire Orb][/td][
+                                    ][td][tip=Ruby Orb][item=Ruby Orb][/tip] x[inventory=Ruby Orb][/td][
+                                    ][td][tip=Jade Orb][item=Jade Orb][/tip] x[inventory=Jade Orb][/td][
+                                    ][td][tip=Mage Orb][item=Mage Orb][/tip] x[inventory=Mage Orb][/td][
+                                    ][td][tip=Rock Statue][item=Rock Statue][/tip] x[inventory=Rock Statue][/td][
+                                    ][td][tip=Ice Statue][item=Ice Statue][/tip] x[inventory=Ice Statue][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Steel Statue][item=Steel Statue][/tip] x[inventory=Steel Statue][/td][
+                                    ][td][tip=Red Soul Dew][item=Red Soul Dew][/tip] x[inventory=Red Soul Dew][/td][
+                                    ][td][tip=Blue Soul Dew][item=Blue Soul Dew][/tip] x[inventory=Blue Soul Dew][/td][
+                                    ][td][tip=Tanzaku][item=Tanzaku][/tip] x[inventory=Tanzaku][/td][
+                                    ][td][tip=Helix Orb][item=Helix Orb][/tip] x[inventory=Helix Orb][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th="6x1"]Sinnoh[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Adamant Orb][item=Adamant Orb][/tip] x[inventory=Adamant Orb][/td][
+                                    ][td][tip=Lustrous Orb][item=Lustrous Orb][/tip] x[inventory=Lustrous Orb][/td][
+                                    ][td][tip=Griseous Orb][item=Griseous Orb][/tip] x[inventory=Griseous Orb][/td][
+                                    ][td][tip=Kagami][item=Kagami][/tip] x[inventory=Kagami][/td][
+                                    ][td][tip=Magatama][item=Magatama][/tip] x[inventory=Magatama][/td][
+                                    ][td][tip=Kusanagi][item=Kusanagi][/tip] x[inventory=Kusanagi][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Magma Stone][item=Magma Stone][/tip] x[inventory=Magma Stone][/td][
+                                    ][td][tip=Gold Statue][item=Gold Statue][/tip] x[inventory=Gold Statue][/td][
+                                    ][td][tip=Lunar Wing][item=Lunar Wing][/tip] x[inventory=Lunar Wing][/td][
+                                    ][td][tip=Nightmare Shroud][item=Nightmare Shroud][/tip] x[inventory=Nightmare Shroud][/td][
+                                    ][td][tip=Sea Crown][item=Sea Crown][/tip] x[inventory=Sea Crown][/td][
+                                    ][td][tip=Gracidea Seed][item=Gracidea Seed][/tip] x[inventory=Gracidea Seed][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Azure Flute][item=Azure Flute][/tip] x[inventory=Mythrite][/td][
+                                    ][td][tip=Ugajin's Lamp][item=Ugajin's Lamp][/tip] x[inventory=Ugajin's Lamp][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th="6x1"]Unova[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Victory Medal][item=Victory Medal][/tip] x[inventory=Victory Medal][/td][
+                                    ][td][tip=White Stone][item=White Stone][/tip] x[inventory=White Stone][/td][
+                                    ][td][tip=Black Stone][item=Black Stone][/tip] x[inventory=Black Stone][/td][
+                                    ][td][tip=Gray Stone][item=Gray Stone][/tip] x[inventory=Gray Stone][/td][
+                                    ][td][tip=Cobalt Épée][item=Cobalt Épée][/tip] x[inventory=Cobalt Épée][/td][
+                                    ][td][tip=Terracotta Épée][item=Terracotta Épée][/tip] x[inventory=Terracotta Épée][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Viridian Épée][item=Viridian Épée][/tip] x[inventory=Viridian Épée][/td][
+                                    ][td][tip=Apprentice's Épée][item=Apprentice's Épée][/tip] x[inventory=Apprentice's Épée][/td][
+                                    ][td][tip=Fujin's Lamp][item=Fujin's Lamp][/tip] x[inventory=Fujin's Lamp][/td][
+                                    ][td][tip=Raijin's Lamp][item=Raijin's Lamp][/tip] x[inventory=Raijin's Lamp][/td][
+                                    ][td][tip=Inari's Lamp][item=Inari's Lamp][/tip] x[inventory=Inari's Lamp][/td][
+                                    ][td][tip=Music Box][item=Music Box][/tip] x[inventory=Music Box][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Ancient Drive][item=Ancient Drive][/tip] x[inventory=Ancient Drive][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th="6x1"]Kalos[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Life Antler][item=Life Antler][/tip] x[inventory=Life Antler][/td][
+                                    ][td][tip=Death Wing][item=Death Wing][/tip] x[inventory=Death Wing][/td][
+                                    ][td][tip=Order's Crest][item=Order's Crest][/tip] x[inventory=Order's Crest][/td][
+                                    ][td][tip=Diamond Tiara][item=Diamond Tiara][/tip] x[inventory=Diamond Tiara][/td][
+                                    ][td][tip=Hyperspace Ring][item=Hyperspace Ring][/tip] x[inventory=Hyperspace Ring][/td][
+                                    ][td][tip=Komainu Figurine][item=Komainu Figurine][/tip] x[inventory=Komainu Figurine][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th="6x1"]Alola[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Kū Idol][item=Kū Idol][/tip] x[inventory=Kū Idol][/td][
+                                    ][td][tip=Kāne Idol][item=Kāne Idol][/tip] x[inventory=Kāne Idol][/td][
+                                    ][td][tip=Lono Idol][item=Lono Idol][/tip] x[inventory=Lono Idol][/td][
+                                    ][td][tip=Kanaloa Idol][item=Kanaloa Idol][/tip] x[inventory=Kanaloa Idol][/td][
+                                    ][td][tip=Soul Heart][item=Soul Heart][/tip] x[inventory=Soul Heart][/td][
+                                    ][td][tip=Eclipse Flute][item=Eclipse Flute][/tip] x[inventory=Eclipse Flute][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Spectral Leiomano][item=Spectral Leiomano][/tip] x[inventory=Spectral Leiomano][/td][
+                                    ][td][tip=Plasma Koa][item=Plasma Koa][/tip] x[inventory=Plasma Koa][/td][
+                                    ][td][tip=Beast Ball][item=Beast Ball][/tip] x[inventory=Beast Ball][/td][
+                                    ][td][tip=Black Prism][item=Black Prism][/tip] x[inventory=Black Prism][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th="6x1"]Galar[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Rusted Sword][item=Rusted Sword][/tip] x[inventory=Rusted Sword][/td][
+                                    ][td][tip=Rusted Shield][item=Rusted Shield][/tip] x[inventory=Rusted Shield][/td][
+                                    ][td][tip=Wishing Star][item=Wishing Star][/tip] x[inventory=Wishing Star][/td][
+                                    ][td][tip=White Belt][item=White Belt][/tip] x[inventory=White Belt][/td][
+                                    ][td][tip=Jungle Root][item=Jungle Root][/tip] x[inventory=Jungle Root][/td][
+                                    ][td][tip=Electric Statue][item=Electric Statue][/tip] x[inventory=Electric Statue][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Dragon Statue][item=Dragon Statue][/tip] x[inventory=Dragon Statue][/td][
+                                    ][td][tip=Iceroot Carrot][item=Iceroot Carrot][/tip] x[inventory=Iceroot Carrot][/td][
+                                    ][td][tip=Shaderoot Carrot][item=Shaderoot Carrot][/tip] x[inventory=Shaderoot Carrot][/td][
+                                    ][td][tip=Radiant Petal][item=Radiant Petal][/tip] x[inventory=Radiant Petal][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th="6x1"]Paldea[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Gimmighoul Coin][item=Gimmighoul Coin][/tip] x[inventory=Gimmighoul Coin][/td][
+                                    ][td][tip=Tablet of Ruin][item=Tablet of Ruin][/tip] x[inventory=Tablet of Ruin][/td][
+                                    ][td][tip=Sword of Ruin][item=Sword of Ruin][/tip] x[inventory=Sword of Ruin][/td][
+                                    ][td][tip=Vessel of Ruin][item=Vessel of Ruin][/tip] x[inventory=Vessel of Ruin][/td][
+                                    ][td][tip=Beads of Ruin][item=Beads of Ruin][/tip] x[inventory=Beads of Ruin][/td][
+                                    ][td][tip=Mask of Strength][item=Mask of Strength][/tip] x[inventory=Mask of Strength][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Mask of Cleverness][item=Mask of Cleverness][/tip] x[inventory=Mask of Cleverness][/td][
+                                    ][td][tip=Mask of Beauty][item=Mask of Beauty][/tip] x[inventory=Mask of Beauty][/td][
+                                    ][td][tip=Stellar Crystal][item=Stellar Crystal][/tip] x[inventory=Stellar Crystal][/td][
+                                    ][td][tip=Teal Mask][item=Teal Mask][/tip] x[inventory=Teal Mask][/td][
+                                    ][td][tip=Mythical Pecha Berry][item=Mythical Pecha Berry][/tip] x[inventory=Mythical Pecha Berry][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th="6x1"]PFQ Exclusives[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Borealis Lantern][item=Borealis Lantern][/tip] x[inventory=Borealis Lantern][/td][
+                                    ][td][tip=Astral Kine][item=Astral Kine][/tip] x[inventory=Astral Kine][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                
+                            ][/table][
+                                
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Megastones"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                            
+                                ][tr][
+                                    ][th="8x1"]Canon Mega Stones[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Abomasite][item=Abomasite][/tip] x[inventory=Abomasite][/td][
+                                    ][td][tip=Absolite][item=Absolite][/tip] x[inventory=Absolite][/td][
+                                    ][td][tip=Aerodactylite][item=Aerodactylite][/tip] x[inventory=Aerodactylite][/td][
+                                    ][td][tip=Aggronite][item=Aggronite][/tip] x[inventory=Aggronite][/td][
+                                    ][td][tip=Alakazite][item=Alakazite][/tip] x[inventory=Alakazite][/td][
+                                    ][td][tip=Altarianite][item=Altarianite][/tip] x[inventory=Altarianite][/td][
+                                    ][td][tip=Ampharosite][item=Ampharosite][/tip] x[inventory=Ampharosite][/td][
+                                    ][td][tip=Audinite][item=Audinite][/tip] x[inventory=Audinite][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Banettite][item=Banettite][/tip] x[inventory=Banettite][/td][
+                                    ][td][tip=Beedrillite][item=Beedrillite][/tip] x[inventory=Beedrillite][/td][
+                                    ][td][tip=Blastoisinite][item=Blastoisinite][/tip] x[inventory=Blastoisinite][/td][
+                                    ][td][tip=Blazikenite][item=Blazikenite][/tip] x[inventory=Blazikenite][/td][
+                                    ][td][tip=Cameruptite][item=Cameruptite][/tip] x[inventory=Cameruptite][/td][
+                                    ][td][tip=Charizardite X][item=Charizardite X][/tip] x[inventory=Charizardite X][/td][
+                                    ][td][tip=Charizardite Y][item=Charizardite Y][/tip] x[inventory=Charizardite Y][/td][
+                                    ][td][tip=Diancite][item=Diancite][/tip] x[inventory=Diancite][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Galladite][item=Galladite][/tip] x[inventory=Galladite][/td][
+                                    ][td][tip=Garchompite][item=Garchompite][/tip] x[inventory=Garchompite][/td][
+                                    ][td][tip=Gardevoirite][item=Gardevoirite][/tip] x[inventory=Gardevoirite][/td][
+                                    ][td][tip=Gengarite][item=Gengarite][/tip] x[inventory=Gengarite][/td][
+                                    ][td][tip=Glalitite][item=Glalitite][/tip] x[inventory=Glalitite][/td][
+                                    ][td][tip=Gyaradosite][item=Gyaradosite][/tip] x[inventory=Gyaradosite][/td][
+                                    ][td][tip=Heracronite][item=Heracronite][/tip] x[inventory=Heracronite][/td][
+                                    ][td][tip=Houndoominite][item=Houndoominite][/tip] x[inventory=Houndoominite][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Kangaskhanite][item=Kangaskhanite][/tip] x[inventory=Kangaskhanite][/td][
+                                    ][td][tip=Latiasite][item=Latiasite][/tip] x[inventory=Latiasite][/td][
+                                    ][td][tip=Latiosite][item=Latiosite][/tip] x[inventory=Latiosite][/td][
+                                    ][td][tip=Lopunnite][item=Lopunnite][/tip] x[inventory=Lopunnite][/td][
+                                    ][td][tip=Lucarionite][item=Lucarionite][/tip] x[inventory=Lucarionite][/td][
+                                    ][td][tip=Manectite][item=Manectite][/tip] x[inventory=Manectite][/td][
+                                    ][td][tip=Mawilite][item=Mawilite][/tip] x[inventory=Mawilite][/td][
+                                    ][td][tip=Medichamite][item=Medichamite][/tip] x[inventory=Medichamite][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Metagrossite][item=Metagrossite][/tip] x[inventory=Metagrossite][/td][
+                                    ][td][tip=Meteorite][item=Meteorite][/tip] x[inventory=Meteorite][/td][
+                                    ][td][tip=Mewtwonite X][item=Mewtwonite X][/tip] x[inventory=Mewtwonite X][/td][
+                                    ][td][tip=Mewtwonite Y][item=Mewtwonite Y][/tip] x[inventory=Mewtwonite Y][/td][
+                                    ][td][tip=Pidgeotite][item=Pidgeotite][/tip] x[inventory=Pidgeotite][/td][
+                                    ][td][tip=Pinsirite][item=Pinsirite][/tip] x[inventory=Pinsirite][/td][
+                                    ][td][tip=Sablenite][item=Sablenite][/tip] x[inventory=Sablenite][/td][
+                                    ][td][tip=Salamencite][item=Salamencite][/tip] x[inventory=Salamencite][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Sceptilite][item=Sceptilite][/tip] x[inventory=Sceptilite][/td][
+                                    ][td][tip=Scizorite][item=Scizorite][/tip] x[inventory=Scizorite][/td][
+                                    ][td][tip=Sharpedonite][item=Sharpedonite][/tip] x[inventory=Sharpedonite][/td][
+                                    ][td][tip=Slowbronite][item=Slowbronite][/tip] x[inventory=Slowbronite][/td][
+                                    ][td][tip=Steelixite][item=Steelixite][/tip] x[inventory=Steelixite][/td][
+                                    ][td][tip=Swampertite][item=Swampertite][/tip] x[inventory=Swampertite][/td][
+                                    ][td][tip=Tyranitarite][item=Tyranitarite][/tip] x[inventory=Tyranitarite][/td][
+                                    ][td][tip=Venusaurite][item=Venusaurite][/tip] x[inventory=Venusaurite][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th="8x1"]PFQ-Exclusive Mega Stones[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Adamantite][item=Adamantite][/tip] x[inventory=Adamantite][/td][
+                                    ][td][tip=Alomarowakite Q][item=Alomarowakite Q][/tip] x[inventory=Alomarowakite Q][/td][
+                                    ][td][tip=Arbokite Q][item=Arbokite Q][/tip] x[inventory=Arbokite Q][/td][
+                                    ][td][tip=Arcanite Q][item=Arcanite Q][/tip] x[inventory=Arcanite Q][/td][
+                                    ][td][tip=Bearticite Q][item=Bearticite Q][/tip] x[inventory=Bearticite Q][/td][
+                                    ][td][tip=Breloomite Q][item=Breloomite Q][/tip] x[inventory=Breloomite Q][/td][
+                                    ][td][tip=Bunborite Q][item=Bunborite Q][/tip] x[inventory=Bunborite Q][/td][
+                                    ][td][tip=Butterfrite Q][item=Butterfrite Q][/tip] x[inventory=Butterfrite Q][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Carnivinite Q][item=Carnivinite Q][/tip] x[inventory=Carnivinite Q][/td][
+                                    ][td][tip=Celebite Q][item=Celebite Q][/tip] x[inventory=Celebite Q][/td][
+                                    ][td][tip=Chandelite Q][item=Chandelite Q][/tip] x[inventory=Chandelite Q][/td][
+                                    ][td][tip=Dewgongite Q][item=Dewgongite Q][/tip] x[inventory=Dewgongite Q][/td][
+                                    ][td][tip=Dragonitenite Q][item=Dragonitenite Q][/tip] x[inventory=Dragonitenite Q][/td][
+                                    ][td][tip=Druddigonite Q][item=Druddigonite Q][/tip] x[inventory=Druddigonite Q][/td][
+                                    ][td][tip=Dunsparcite Q][item=Dunsparcite Q][/tip] x[inventory=Dunsparcite Q][/td][
+                                    ][td][tip=Espeonite Q][item=Espeonite Q][/tip] x[inventory=Espeonite Q][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Farfetchite Q][item=Farfetchite Q][/tip] x[inventory=Farfetchite Q][/td][
+                                    ][td][tip=Flareonite Q][item=Flareonite Q][/tip] x[inventory=Flareonite Q][/td][
+                                    ][td][tip=Floatzelite Q][item=Floatzelite Q][/tip] x[inventory=Floatzelite Q][/td][
+                                    ][td][tip=Fluxraynite Q][item=Fluxraynite Q][/tip] x[inventory=Fluxraynite Q][/td][
+                                    ][td][tip=Flygonite Q][item=Flygonite Q][/tip] x[inventory=Flygonite Q][/td][
+                                    ][td][tip=Froslassite Q][item=Froslassite Q][/tip] x[inventory=Froslassite Q][/td][
+                                    ][td][tip=Furretite Q][item=Furretite Q][/tip] x[inventory=Furretite Q][/td][
+                                    ][td][tip=Girafarite Q][item=Girafarite Q][/tip] x[inventory=Girafarite Q][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Glaceonite Q][item=Glaceonite Q][/tip] x[inventory=Glaceonite Q][/td][
+                                    ][td][tip=Gogoatite Q][item=Gogoatite Q][/tip] x[inventory=Gogoatite Q][/td][
+                                    ][td][tip=Goodranite Q][item=Goodranite Q][/tip] x[inventory=Goodranite Q][/td][
+                                    ][td][tip=Hawluchite Q][item=Hawluchite Q][/tip] x[inventory=Hawluchite Q][/td][
+                                    ][td][tip=Haxorite Q][item=Haxorite Q][/tip] x[inventory=Haxorite Q][/td][
+                                    ][td][tip=Heliolite Q][item=Heliolite Q][/tip] x[inventory=Heliolite Q][/td][
+                                    ][td][tip=Hoopanite Q][item=Hoopanite Q][/tip] x[inventory=Hoopanite Q][/td][
+                                    ][td][tip=Ho-oh-nite Q][item=Ho-oh-nite Q][/tip] x[inventory=Ho-oh-nite Q][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Jirachinite Q][item=Jirachinite Q][/tip] x[inventory=Jirachinite Q][/td][
+                                    ][td][tip=Jolteonite Q][item=Jolteonite Q][/tip] x[inventory=Jolteonite Q][/td][
+                                    ][td][tip=Jumpluffite Q][item=Jumpluffite Q][/tip] x[inventory=Jumpluffite Q][/td][
+                                    ][td][tip=Jynxite Q][item=Jynxite Q][/tip] x[inventory=Jynxite Q][/td][
+                                    ][td][tip=Kangsparite Q][item=Kangsparite Q][/tip] x[inventory=Kangsparite Q][/td][
+                                    ][td][tip=Korokunite Q][item=Korokunite Q][/tip] x[inventory=Korokunite Q][/td][
+                                    ][td][tip=Laprasite Q][item=Laprasite Q][/tip] x[inventory=Laprasite Q][/td][
+                                    ][td][tip=Leafeonite Q][item=Leafeonite Q][/tip] x[inventory=Leafeonite Q][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Liepardite Q][item=Liepardite Q][/tip] x[inventory=Liepardite Q][/td][
+                                    ][td][tip=Lugianite Q][item=Lugianite Q][/tip] x[inventory=Lugianite Q][/td][
+                                    ][td][tip=Lumineonite Q][item=Lumineonite Q][/tip] x[inventory=Lumineonite Q][/td][
+                                    ][td][tip=Lunupinite Q][item=Lunupinite Q][/tip] x[inventory=Lunupinite Q][/td][
+                                    ][td][tip=Luxraynite Q][item=Luxraynite Q][/tip] x[inventory=Luxraynite Q][/td][
+                                    ][td][tip=Manaphite Q][item=Manaphite Q][/tip] x[inventory=Manaphite Q][/td][
+                                    ][td][tip=Manectite Q][item=Manectite Q][/tip] x[inventory=Manectite Q][/td][
+                                    ][td][tip=Marshadeite Q][item=Marshadeite Q][/tip] x[inventory=Marshadeite Q][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Mewnite Q][item=Mewnite Q][/tip] x[inventory=Mewnite Q][/td][
+                                    ][td][tip=Mightyenite Q][item=Mightyenite Q][/tip] x[inventory=Mightyenite Q][/td][
+                                    ][td][tip=Milotite Q][item=Milotite Q][/tip] x[inventory=Milotite Q][/td][
+                                    ][td][tip=Ninetaleite Q][item=Ninetaleite Q][/tip] x[inventory=Ninetaleite Q][/td][
+                                    ][td][tip=Noivernite Q][item=Noivernite Q][/tip] x[inventory=Noivernite Q][/td][
+                                    ][td][tip=Persianite Q][item=Persianite Q][/tip] x[inventory=Persianite Q][/td][
+                                    ][td][tip=Pyrite Q][item=Pyrite Q][/tip] x[inventory=Pyrite Q][/td][
+                                    ][td][tip=Raichunite Q][item=Raichunite Q][/tip] x[inventory=Raichunite Q][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Rapidite Q][item=Rapidite Q][/tip] x[inventory=Rapidite Q][/td][
+                                    ][td][tip=Sawsbuckite Q][item=Sawsbuckite Q][/tip] x[inventory=Sawsbuckite Q][/td][
+                                    ][td][tip=Scolipedite Q][item=Scolipedite Q][/tip] x[inventory=Scolipedite Q][/td][
+                                    ][td][tip=Scraftite Q][item=Scraftite Q][/tip] x[inventory=Scraftite Q][/td][
+                                    ][td][tip=Sevipernite Q][item=Sevipernite Q][/tip] x[inventory=Sevipernite Q][/td][
+                                    ][td][tip=Sharkolite Q][item=Sharkolite Q][/tip] x[inventory=Sharkolite Q][/td][
+                                    ][td][tip=Shayminite Q][item=Shayminite Q][/tip] x[inventory=Shayminite Q][/td][
+                                    ][td][tip=Shucklite Q][item=Shucklite Q][/tip] x[inventory=Shucklite Q][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Skarmorite Q][item=Skarmorite Q][/tip] x[inventory=Skarmorite Q][/td][
+                                    ][td][tip=Solynxite Q][item=Solynxite Q][/tip] x[inventory=Solynxite Q][/td][
+                                    ][td][tip=Sunflorite Q][item=Sunflorite Q][/tip] x[inventory=Sunflorite Q][/td][
+                                    ][td][tip=Sylveonite Q][item=Sylveonite Q][/tip] x[inventory=Sylveonite Q][/td][
+                                    ][td][tip=Terabbite Q][item=Terabbite Q][/tip] x[inventory=Terabbite Q][/td][
+                                    ][td][tip=Tsareenite Q][item=Tsareenite Q][/tip] x[inventory=Tsareenite Q][/td][
+                                    ][td][tip=Umbreonite Q][item=Umbreonite Q][/tip] x[inventory=Umbreonite Q][/td][
+                                    ][td][tip=Vaporeonite Q][item=Vaporeonite Q][/tip] x[inventory=Vaporeonite Q][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Victinite Q][item=Victinite Q][/tip] x[inventory=Victinite Q][/td][
+                                    ][td][tip=Wailordite Q][item=Wailordite Q][/tip] x[inventory=Wailordite Q][/td][
+                                    ][td][tip=Wanamangorite Q][item=Wanamangorite Q][/tip] x[inventory=Wanamangorite Q][/td][
+                                    ][td][tip=Weavilite Q][item=Weavilite Q][/tip] x[inventory=Weavilite Q][/td][
+                                    ][td][tip=Zangoosite Q][item=Zangoosite Q][/tip] x[inventory=Zangoosite Q][/td][
+                                    ][td][tip=Zoroarkite Q][item=Zoroarkite Q][/tip] x[inventory=Zoroarkite Q][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                            
+                            ][/table][
+                        
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Training Bags"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                            
+                            ][table][
+                            
+                                ][tr][
+                                    ][th]Type[/th][
+                                    ][th]Small[/th][
+                                    ][th]Medium[/th][
+                                    ][th]Large[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][th]HP[/th][
+                                    ][td][tip=HP Bag S][item=HP Bag S][/tip]x[inventory=HP Bag S][/td][
+                                    ][td][tip=HP Bag M][item=HP Bag M][/tip]x[inventory=HP Bag M][/td][
+                                    ][td][tip=HP Bag L][item=HP Bag L][/tip]x[inventory=HP Bag L][/td][/tr][tr][
+                                    ][th]Attack[/th][
+                                    ][td][tip=Attack Bag S][item=Attack Bag S][/tip]x[inventory=Attack Bag S][/td][
+                                    ][td][tip=Attack Bag M][item=Attack Bag M][/tip]x[inventory=Attack Bag M][/td][
+                                    ][td][tip=Attack Bag L][item=Attack Bag L][/tip]x[inventory=Attack Bag L][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th]Defence[/th][
+                                    ][td][tip=Defence Bag S][item=Defence Bag S][/tip]x[inventory=Defence Bag S][/td][
+                                    ][td][tip=Defence Bag M][item=Defence Bag M][/tip]x[inventory=Defence Bag M][/td][
+                                    ][td][tip=Defence Bag S][item=Defence Bag L][/tip]x[inventory=Defence Bag L][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th]Sp. Atk.[/th][
+                                    ][td][tip=Sp. Atk. Bag S][item=Sp.Atk. Bag S][/tip]x[inventory=Sp.Atk. Bag S][/td][
+                                    ][td][tip=Sp. Atk. Bag M][item=Sp.Atk. Bag M][/tip]x[inventory=Sp.Atk. Bag M][/td][
+                                    ][td][tip=Sp. Atk. Bag L][item=Sp.Atk. Bag L][/tip]x[inventory=Sp.Atk. Bag L][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th]Sp. Def.[/th][
+                                    ][td][tip=Sp.Def. Bag S][item=Sp.Def. Bag S][/tip]x[inventory=Sp.Def. Bag S][/td][
+                                    ][td][tip=Sp.Def. Bag M][item=Sp.Def. Bag M][/tip]x[inventory=Sp.Def. Bag M][/td][
+                                    ][td][tip=Sp.Def. Bag L][item=Sp.Def. Bag L][/tip]x[inventory=Sp.Def. Bag L][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th]Speed[/th][
+                                    ][td][tip=Speed Bag S][item=Speed Bag S][/tip]x[inventory=Speed Bag S][/td][
+                                    ][td][tip=Speed Bag M][item=Speed Bag M][/tip]x[inventory=Speed Bag M][/td][
+                                    ][td][tip=Speed Bag L][item=Speed Bag L][/tip]x[inventory=Speed Bag L][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th]Other[/th][
+                                    ][td][tip=Double-Up Bag][item=Double-Up Bag][/tip]x[inventory=Double-Up Bag][/td][
+                                    ][td][tip=Team Flare Bag][item=Team Flare Bag][/tip]x[inventory=Team Flare Bag][/td][
+                                    ][td][tip=Reset Bag][item=Reset Bag][/tip]x[inventory=Reset Bag][/td][
+                                ][/tr][
+                                
+                            ][/table][
+                        
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Incense"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                            
+                                ][tr][
+                                    ][th=3x1]Incense[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Full Incense][item=Full Incense][/tip] x[inventory=Full Incense][/td][
+                                    ][td][tip=Lax Incense][item=Lax Incense][/tip] x[inventory=Lax Incense][/td][
+                                    ][td][tip=Luck Incense][item=Luck Incense][/tip] x[inventory=Luck Incense][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Odd Incense][item=Odd Incense][/tip] x[inventory=Odd Incense][/td][
+                                    ][td][tip=Pure Incense][item=Pure Incense][/tip] x[inventory=Pure Incense][/td][
+                                    ][td][tip=Rock Incense][item=Rock Incense][/tip] x[inventory=Rock Incense][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Rose Incense][item=Rose Incense][/tip] x[inventory=Rose Incense][/td][
+                                    ][td][tip=Sea Incense][item=Sea Incense][/tip] x[inventory=Sea Incense][/td][
+                                    ][td][tip=Wave Incense][item=Wave incense][/tip] x[inventory=Wave incense][/td][
+                                ][/tr][
+
+                            ][/table][
+                        
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Consumables"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                            
+                                ][tr][
+                                    ][th=7x1]Consumables[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Cookie][item=Cookie][/tip]x[inventory=Cookie][/td][
+                                    ][td][tip=Sweet Heart][item=Sweet Heart][/tip]x[inventory=Sweet Heart][/td][
+                                    ][td][tip=Black Gummi][item=Black Gummi][/tip]x[inventory=Black Gummi][/td][
+                                    ][td][tip=Blue Gummi][item=Blue Gummi][/tip]x[inventory=Blue Gummi][/td][
+                                    ][td][tip=Brown Gummi][item=Brown Gummi][/tip]x[inventory=Brown Gummi][/td][
+                                    ][td][tip=Clear Gummi][item=Clear Gummi][/tip]x[inventory=Clear Gummi][/td][
+                                    ][td][tip=Gold Gummi][item=Gold Gummi][/tip]x[inventory=Gold Gummi][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Grass Gummi][item=Grass Gummi][/tip]x[inventory=Grass Gummi][/td][
+                                    ][td][tip=Grey Gummi][item=Grey Gummi][/tip]x[inventory=Grey Gummi][/td][
+                                    ][td][tip=Green Gummi][item=Green Gummi][/tip]x[inventory=Green Gummi][/td][
+                                    ][td][tip=Orange Gummi][item=Orange Gummi][/tip]x[inventory=Orange Gummi][/td][
+                                    ][td][tip=Pink Gummi][item=Pink Gummi][/tip]x[inventory=Pink Gummi][/td][
+                                    ][td][tip=Purple Gummi][item=Purple Gummi][/tip]x[inventory=Purple Gummi][/td][
+                                    ][td][tip=Red Gummi][item=Red Gummi][/tip]x[inventory=Red Gummi][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Royal Gummi][item=Royal Gummi][/tip]x[inventory=Royal Gummi][/td][
+                                    ][td][tip=Silver Gummi][item=Silver Gummi][/tip]x[inventory=Silver Gummi][/td][
+                                    ][td][tip=Sky Gummi][item=Sky Gummi][/tip]x[inventory=Sky Gummi][/td][
+                                    ][td][tip=White Gummi][item=White Gummi][/tip]x[inventory=White Gummi][/td][
+                                    ][td][tip=Wonder Gummi][item=Wonder Gummi][/tip]x[inventory=Wonder Gummi][/td][
+                                    ][td][tip=Yellow Gummi][item=Yellow Gummi][/tip]x[inventory=Yellow Gummi][/td][
+                                    ][td][tip=Green Nectar][item=Green Nectar][/tip]x[inventory=Green Nectar][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Red Nectar][item=Red Nectar][/tip]x[inventory=Red Nectar][/td][
+                                    ][td][tip=Purple Nectar][item=Purple Nectar][/tip]x[inventory=Purple Nectar][/td][
+                                    ][td][tip=Yellow Nectar][item=Yellow Nectar][/tip]x[inventory=Yellow Nectar][/td][
+                                    ][td][tip=Pink Nectar][item=Pink Nectar][/tip]x[inventory=Pink Nectar][/td][
+                                    ][td][tip=Big Malasada][item=Big Malasada][/tip]x[inventory=Big Malasada][/td][
+                                    ][td][tip=Easter Egg][item=Easter Egg][/tip]x[inventory=Easter Egg][/td][
+                                    ][td][tip=Perfect Pecha Berry][item=Perfect Pecha Berry][/tip]x[inventory=Perfect Pecha Berry][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Perfect Rawst Berry][item=Perfect Rawst Berry][/tip]x[inventory=Perfect Rawst Berry][/td][
+                                    ][td][tip=Perfect Chesto Berry][item=Perfect Chesto Berry][/tip]x[inventory=Perfect Chesto Berry][/td][
+                                    ][td][tip=Perfect Aspear Berry][item=Perfect Aspear Berry][/tip]x[inventory=Perfect Aspear Berry][/td][
+                                    ][td][tip=Perfect Cheri Berry][item=Perfect Cheri Berry][/tip]x[inventory=Perfect Cheri Berry][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                
+                            ][/table][
+                        
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Pokéblocks"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                            
+                                ][tr][
+                                    ][th=6x1]Pokéblocks[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Red Pokéblock I][item=Red Pokéblock I][/tip]x[inventory=Red Pokéblock I][/td][
+                                    ][td][tip=Red Pokéblock+ I][item=Red Pokéblock+ I][/tip]x[inventory=Red Pokéblock+ I][/td][
+                                    ][td][tip=Red Pokéblock II][item=Red Pokéblock II][/tip]x[inventory=Red Pokéblock II][/td][
+                                    ][td][tip=Red Pokéblock+ II][item=Red Pokéblock+ II][/tip]x[inventory=Red Pokéblock+ II][/td][
+                                    ][td][tip=Red Pokéblock III][item=Red Pokéblock III][/tip]x[inventory=Red Pokéblock III][/td][
+                                    ][td][tip=Red Pokéblock+ III][item=Red Pokéblock+ III][/tip]x[inventory=Red Pokéblock+ III][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Blue Pokéblock I][item=Blue Pokéblock I][/tip]x[inventory=Blue Pokéblock I][/td][
+                                    ][td][tip=Blue Pokéblock+ I][item=Blue Pokéblock+ I][/tip]x[inventory=Blue Pokéblock+ I][/td][
+                                    ][td][tip=Blue Pokéblock II][item=Blue Pokéblock II][/tip]x[inventory=Blue Pokéblock II][/td][
+                                    ][td][tip=Blue Pokéblock+ II][item=Blue Pokéblock+ II][/tip]x[inventory=Blue Pokéblock+ II][/td][
+                                    ][td][tip=Blue Pokéblock III][item=Blue Pokéblock III][/tip]x[inventory=Blue Pokéblock III][/td][
+                                    ][td][tip=Blue Pokéblock+ III][item=Blue Pokéblock+ III][/tip]x[inventory=Blue Pokéblock+ III][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Pink Pokéblock I][item=Pink Pokéblock I][/tip]x[inventory=Pink Pokéblock I][/td][
+                                    ][td][tip=Pink Pokéblock+ I][item=Pink Pokéblock+ I][/tip]x[inventory=Pink Pokéblock+ I][/td][
+                                    ][td][tip=Pink Pokéblock II][item=Pink Pokéblock II][/tip]x[inventory=Pink Pokéblock II][/td][
+                                    ][td][tip=Pink Pokéblock+ II][item=Pink Pokéblock+ II][/tip]x[inventory=Pink Pokéblock+ II][/td][
+                                    ][td][tip=Pink Pokéblock III][item=Pink Pokéblock III][/tip]x[inventory=Pink Pokéblock III][/td][
+                                    ][td][tip=Pink Pokéblock+ III][item=Pink Pokéblock+ III][/tip]x[inventory=Pink Pokéblock+ III][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Green Pokéblock I][item=Green Pokéblock I][/tip]x[inventory=Green Pokéblock I][/td][
+                                    ][td][tip=Green Pokéblock+ I][item=Green Pokéblock+ I][/tip]x[inventory=Green Pokéblock+ I][/td][
+                                    ][td][tip=Green Pokéblock II][item=Green Pokéblock II][/tip]x[inventory=Green Pokéblock II][/td][
+                                    ][td][tip=Green Pokéblock+ II][item=Green Pokéblock+ II][/tip]x[inventory=Green Pokéblock+ II][/td][
+                                    ][td][tip=Green Pokéblock III][item=Green Pokéblock III][/tip]x[inventory=Green Pokéblock III][/td][
+                                    ][td][tip=Green Pokéblock+ III][item=Green Pokéblock+ III][/tip]x[inventory=Green Pokéblock+ III][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Yellow Pokéblock I][item=Yellow Pokéblock I][/tip]x[inventory=Yellow Pokéblock I][/td][
+                                    ][td][tip=Yellow Pokéblock+ I][item=Yellow Pokéblock+ I][/tip]x[inventory=Yellow Pokéblock+ I][/td][
+                                    ][td][tip=Yellow Pokéblock II][item=Yellow Pokéblock II][/tip]x[inventory=Yellow Pokéblock II][/td][
+                                    ][td][tip=Yellow Pokéblock+ II][item=Yellow Pokéblock+ II][/tip]x[inventory=Yellow Pokéblock+ II][/td][
+                                    ][td][tip=Purple Pokéblock I A][item=Purple Pokéblock I A][/tip]x[inventory=Purple Pokéblock I A][/td][
+                                    ][td][tip=Purple Pokéblock I B][item=Purple Pokéblock I B][/tip]x[inventory=Purple Pokéblock I B][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Purple Pokéblock+ I B][item=Purple Pokéblock+ I B][/tip]x[inventory=Purple Pokéblock+ I B][/td][
+                                    ][td][tip=Purple Pokéblock I C][item=Purple Pokéblock I C][/tip]x[inventory=Purple Pokéblock I C][/td][
+                                    ][td][tip=Purple Pokéblock+ I C][item=Purple Pokéblock+ I C][/tip]x[inventory=Purple Pokéblock+ I C][/td][
+                                    ][td][tip=Purple Pokéblock II C][item=Purple Pokéblock II C][/tip]x[inventory=Purple Pokéblock II C][/td][
+                                    ][td][tip=Purple Pokéblock+ II C][item=Purple Pokéblock+ II C][/tip]x[inventory=Purple Pokéblock+ II C][/td][
+                                    ][td][tip=Purple Pokéblock III A][item=Purple Pokéblock III A][/tip]x[inventory=Purple Pokéblock III A][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Purple Pokéblock+ III A][item=Purple Pokéblock+ III A][/tip]x[inventory=Purple Pokéblock+ III A][/td][
+                                    ][td][tip=Purple Pokéblock III D][item=Purple Pokéblock III D][/tip]x[inventory=Purple Pokéblock III D][/td][
+                                    ][td][tip=Purple Pokéblock+ III D][item=Purple Pokéblock+ III D][/tip]x[inventory=Purple Pokéblock+ III D][/td][
+                                    ][td][tip=Purple Pokéblock IV][item=Purple Pokéblock IV][/tip]x[inventory=Purple Pokéblock IV][/td][
+                                    ][td][tip=Purple Pokéblock+ IV][item=Purple Pokéblock+ IV][/tip]x[inventory=Purple Pokéblock+ IV][/td][
+                                    ][td][tip=Purple Pokéblock V][item=Purple Pokéblock V][/tip]x[inventory=Purple Pokéblock V][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Purple Pokéblock+ V][item=Purple Pokéblock+ V][/tip]x[inventory=Purple Pokéblock+ V][/td][
+                                    ][td][tip=Indigo Pokéblock I A][item=Indigo Pokéblock I A][/tip]x[inventory=Indigo Pokéblock I A][/td][
+                                    ][td][tip=Indigo Pokéblock I B][item=Indigo Pokéblock I B][/tip]x[inventory=Indigo Pokéblock I B][/td][
+                                    ][td][tip=Indigo Pokéblock+ I B][item=Indigo Pokéblock+ I B][/tip]x[inventory=Indigo Pokéblock+ I B][/td][
+                                    ][td][tip=Indigo Pokéblock I C][item=Indigo Pokéblock I C][/tip]x[inventory=Indigo Pokéblock I C][/td][
+                                    ][td][tip=Indigo Pokéblock+ I C][item=Indigo Pokéblock+ I C][/tip]x[inventory=Indigo Pokéblock+ I C][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Indigo Pokéblock II C][item=Indigo Pokéblock II C][/tip]x[inventory=Indigo Pokéblock II C][/td][
+                                    ][td][tip=Indigo Pokéblock+ II C][item=Indigo Pokéblock+ II C][/tip]x[inventory=Indigo Pokéblock+ II C][/td][
+                                    ][td][tip=Indigo Pokéblock III A][item=Indigo Pokéblock III A][/tip]x[inventory=Indigo Pokéblock III A][/td][
+                                    ][td][tip=Indigo Pokéblock+ III A][item=Indigo Pokéblock+ III A][/tip]x[inventory=Indigo Pokéblock+ III A][/td][
+                                    ][td][tip=Indigo Pokéblock III D][item=Indigo Pokéblock III D][/tip]x[inventory=Indigo Pokéblock III D][/td][
+                                    ][td][tip=Indigo Pokéblock+ III D][item=Indigo Pokéblock+ III D][/tip]x[inventory=Indigo Pokéblock+ III D][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Indigo Pokéblock IV][item=Indigo Pokéblock IV][/tip]x[inventory=Indigo Pokéblock IV][/td][
+                                    ][td][tip=Indigo Pokéblock+ IV][item=Indigo Pokéblock+ IV][/tip]x[inventory=Indigo Pokéblock+ IV][/td][
+                                    ][td][tip=Indigo Pokéblock V][item=Indigo Pokéblock V][/tip]x[inventory=Indigo Pokéblock V][/td][
+                                    ][td][tip=Indigo Pokéblock+ V][item=Indigo Pokéblock+ V][/tip]x[inventory=Indigo Pokéblock+ V][/td][
+                                    ][td][tip=Brown Pokéblock I A][item=Brown Pokéblock I A][/tip]x[inventory=Brown Pokéblock I A][/td][
+                                    ][td][tip=Brown Pokéblock+ I A][item=Brown Pokéblock+ I A][/tip]x[inventory=Brown Pokéblock+ I A][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Brown Pokéblock I B][item=Brown Pokéblock I B][/tip]x[inventory=Brown Pokéblock I B][/td][
+                                    ][td][tip=Brown Pokéblock I C][item=Brown Pokéblock I C][/tip]x[inventory=Brown Pokéblock I C][/td][
+                                    ][td][tip=Brown Pokéblock+ I C][item=Brown Pokéblock+ I C][/tip]x[inventory=Brown Pokéblock+ I C][/td][
+                                    ][td][tip=Brown Pokéblock II C][item=Brown Pokéblock II C][/tip]x[inventory=Brown Pokéblock II C][/td][
+                                    ][td][tip=Brown Pokéblock+ II C][item=Brown Pokéblock+ II C][/tip]x[inventory=Brown Pokéblock+ II C][/td][
+                                    ][td][tip=Brown Pokéblock III A][item=Brown Pokéblock III A][/tip]x[inventory=Brown Pokéblock III A][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Brown Pokéblock+ III A][item=Brown Pokéblock+ III A][/tip]x[inventory=Brown Pokéblock+ III A][/td][
+                                    ][td][tip=Brown Pokéblock III D][item=Brown Pokéblock III D][/tip]x[inventory=Brown Pokéblock III D][/td][
+                                    ][td][tip=Brown Pokéblock+ III D][item=Brown Pokéblock+ III D][/tip]x[inventory=Brown Pokéblock+ III D][/td][
+                                    ][td][tip=Brown Pokéblock IV][item=Brown Pokéblock IV][/tip]x[inventory=Brown Pokéblock IV][/td][
+                                    ][td][tip=Brown Pokéblock+ IV][item=Brown Pokéblock+ IV][/tip]x[inventory=Brown Pokéblock+ IV][/td][
+                                    ][td][tip=Brown Pokéblock V][item=Brown Pokéblock V][/tip]x[inventory=Brown Pokéblock V][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Brown Pokéblock+ V][item=Brown Pokéblock+ V][/tip]x[inventory=Brown Pokéblock+ V][/td][
+                                    ][td][tip=LiteBlue Pokéblock I A][item=LiteBlue Pokéblock I A][/tip]x[inventory=LiteBlue Pokéblock I A][/td][
+                                    ][td][tip=LiteBlue Pokéblock+ I A][item=LiteBlue Pokéblock+ I A][/tip]x[inventory=LiteBlue Pokéblock+ I A][/td][
+                                    ][td][tip=LiteBlue Pokéblock I B][item=LiteBlue Pokéblock I B][/tip]x[inventory=LiteBlue Pokéblock I B][/td][
+                                    ][td][tip=LiteBlue Pokéblock+ I B][item=LiteBlue Pokéblock+ I B][/tip]x[inventory=LiteBlue Pokéblock+ I B][/td][
+                                    ][td][tip=LiteBlue Pokéblock I C][item=LiteBlue Pokéblock I C][/tip]x[inventory=LiteBlue Pokéblock I C][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=LiteBlue Pokéblock+ I C][item=LiteBlue Pokéblock+ I C][/tip]x[inventory=LiteBlue Pokéblock+ I C][/td][
+                                    ][td][tip=LiteBlue Pokéblock II C][item=LiteBlue Pokéblock II C][/tip]x[inventory=LiteBlue Pokéblock II C][/td][
+                                    ][td][tip=LiteBlue Pokéblock+ II C][item=LiteBlue Pokéblock+ II C][/tip]x[inventory=LiteBlue Pokéblock+ II C][/td][
+                                    ][td][tip=LiteBlue Pokéblock III D][item=LiteBlue Pokéblock III D][/tip]x[inventory=LiteBlue Pokéblock III D][/td][
+                                    ][td][tip=LiteBlue Pokéblock+ III D][item=LiteBlue Pokéblock+ III D][/tip]x[inventory=LiteBlue Pokéblock+ III D][/td][
+                                    ][td][tip=LiteBlue Pokéblock IV][item=LiteBlue Pokéblock IV][/tip]x[inventory=LiteBlue Pokéblock IV][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=LiteBlue Pokéblock+ IV][item=LiteBlue Pokéblock+ IV][/tip]x[inventory=LiteBlue Pokéblock+ IV][/td][
+                                    ][td][tip=LiteBlue Pokéblock V][item=LiteBlue Pokéblock V][/tip]x[inventory=LiteBlue Pokéblock V][/td][
+                                    ][td][tip=LiteBlue Pokéblock+ V][item=LiteBlue Pokéblock+ V][/tip]x[inventory=LiteBlue Pokéblock+ V][/td][
+                                    ][td][tip=Olive Pokéblock I A][item=Olive Pokéblock I A][/tip]x[inventory=Olive Pokéblock I A][/td][
+                                    ][td][tip=Olive Pokéblock I+ A][item=Olive Pokéblock+ I A][/tip]x[inventory=Olive Pokéblock+ I A][/td][
+                                    ][td][tip=Olive Pokéblock I B][item=Olive Pokéblock I B][/tip]x[inventory=Olive Pokéblock I B][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Olive Pokéblock+ I B][item=Olive Pokéblock+ I B][/tip]x[inventory=Olive Pokéblock+ I B][/td][
+                                    ][td][tip=Olive Pokéblock I C][item=Olive Pokéblock I C][/tip]x[inventory=Olive Pokéblock I C][/td][
+                                    ][td][tip=Olive Pokéblock II C][item=Olive Pokéblock II C][/tip]x[inventory=Olive Pokéblock II C][/td][
+                                    ][td][tip=Olive Pokéblock III D][item=Olive Pokéblock III D][/tip]x[inventory=Olive Pokéblock III D][/td][
+                                    ][td][tip=Olive Pokéblock+ III D][item=Olive Pokéblock+ III D][/tip]x[inventory=Olive Pokéblock+ III D][/td][
+                                    ][td][tip=Olive Pokéblock IV][item=Olive Pokéblock IV][/tip]x[inventory=Olive Pokéblock IV][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Olive Pokéblock+ IV][item=Olive Pokéblock+ IV][/tip]x[inventory=Olive Pokéblock+ IV][/td][
+                                    ][td][tip=Olive Pokéblock V][item=Olive Pokéblock V][/tip]x[inventory=Olive Pokéblock V][/td][
+                                    ][td][tip=Olive Pokéblock+ V][item=Olive Pokéblock+ V][/tip]x[inventory=Olive Pokéblock+ V][/td][
+                                    ][td][tip=Gold Pokéblock A][item=Gold Pokéblock A][/tip]x[inventory=Gold Pokéblock A][/td][
+                                    ][td][tip=Gold Pokéblock+ A][item=Gold Pokéblock+ A][/tip]x[inventory=Gold Pokéblock+ A][/td][
+                                    ][td][tip=Gold Pokéblock B][item=Gold Pokéblock B][/tip]x[inventory=Gold Pokéblock B][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Gold Pokéblock+ B][item=Gold Pokéblock+ B][/tip]x[inventory=Gold Pokéblock+ B][/td][
+                                    ][td][tip=Gold Pokéblock C][item=Gold Pokéblock C][/tip]x[inventory=Gold Pokéblock C][/td][
+                                    ][td][tip=Gold Pokéblock+ C][item=Gold Pokéblock+ C][/tip]x[inventory=Gold Pokéblock+ C][/td][
+                                    ][td][tip=Gold Pokéblock D][item=Gold Pokéblock D][/tip]x[inventory=Gold Pokéblock D][/td][
+                                    ][td][tip=Gold Pokéblock+ D][item=Gold Pokéblock+ D][/tip]x[inventory=Gold Pokéblock+ D][/td][
+                                    ][td][tip=Gold Pokéblock E][item=Gold Pokéblock E][/tip]x[inventory=Gold Pokéblock E][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Gold Pokéblock+ E][item=Gold Pokéblock+ E][/tip]x[inventory=Gold Pokéblock+ E][/td][
+                                    ][td][tip=Black Pokéblock][item=Black Pokéblock][/tip]x[inventory=Black Pokéblock][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                            
+                            ][/table][
+                        
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Z-Crystals"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                            
+                                ][tr][
+                                    ][th=6x1]Z-Fragments[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Normalium Z][item=Normalium Z][/tip]x[inventory=Normalium Z][/td][
+                                    ][td][tip=Firium Z][item=Firium Z][/tip]x[inventory=Firium Z][/td][
+                                    ][td][tip=Waterium Z][item=Waterium Z][/tip]x[inventory=Waterium Z][/td][
+                                    ][td][tip=Electrium Z][item=Electrium Z][/tip]x[inventory=Electrium Z][/td][
+                                    ][td][tip=Grassium Z][item=Grassium Z][/tip]x[inventory=Grassium Z][/td][
+                                    ][td][tip=Icium Z][item=Icium Z][/tip]x[inventory=Icium Z][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Fightinium Z][item=Fightinium Z][/tip]x[inventory=Fightinium Z][/td][
+                                    ][td][tip=Poisonium Z][item=Poisonium Z][/tip]x[inventory=Poisonium Z][/td][
+                                    ][td][tip=Groundium Z][item=Groundium Z][/tip]x[inventory=Groundium Z][/td][
+                                    ][td][tip=Flyinium Z][item=Flyinium Z][/tip]x[inventory=Flyinium Z][/td][
+                                    ][td][tip=Psychium Z][item=Psychium Z][/tip]x[inventory=Psychium Z][/td][
+                                    ][td][tip=Buginium Z][item=Buginium Z][/tip]x[inventory=Buginium Z][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Rockium Z][item=Rockium Z][/tip]x[inventory=Rockium Z][/td][
+                                    ][td][tip=Ghostium Z][item=Ghostium Z][/tip]x[inventory=Ghostium Z][/td][
+                                    ][td][tip=Dragonium Z][item=Dragonium Z][/tip]x[inventory=Dragonium Z][/td][
+                                    ][td][tip=Darkinium Z][item=Darkinium Z][/tip]x[inventory=Darkinium Z][/td][
+                                    ][td][tip=Steelium Z][item=Steelium Z][/tip]x[inventory=Steelium Z][/td][
+                                    ][td][tip=Fairium Z][item=Fairium Z][/tip]x[inventory=Fairium Z][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th=3x1]Z-Crystal Total:[/th][
+                                    ][td=3x1][math][inventory=Normalium Z]+[inventory=Firium Z]+[inventory=Waterium Z]+[inventory=Electrium Z]+[inventory=Grassium Z]+[inventory=Icium Z]+[inventory=Fightinium Z]+[inventory=Poisonium Z]+[inventory=Groundium Z]+[inventory=Flyinium Z]+[inventory=Psychium Z]+[inventory=Buginium Z]+[inventory=Rockium Z]+[inventory=Ghostium Z]+[inventory=Dragonium Z]+[inventory=Darkinium Z]+[inventory=Steelium Z]+[inventory=Fairium Z][/math][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th=6x1]Z-Crystal Fragments[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Normalium Fragment][item=Normalium Fragment][/tip]x[inventory=Normalium Fragment][/td][
+                                    ][td][tip=Firium Fragment][item=Firium Fragment][/tip]x[inventory=Firium Fragment][/td][
+                                    ][td][tip=Waterium Fragment][item=Waterium Fragment][/tip]x[inventory=Waterium Fragment][/td][
+                                    ][td][tip=Electrium Fragment][item=Electrium Fragment][/tip]x[inventory=Electrium Fragment][/td][
+                                    ][td][tip=Grassium Fragment][item=Grassium Fragment][/tip]x[inventory=Grassium Fragment][/td][
+                                    ][td][tip=Icium Fragment][item=Icium Fragment][/tip]x[inventory=Icium Fragment][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Fightinium Fragment][item=Fightinium Fragment][/tip]x[inventory=Fightinium Fragment][/td][
+                                    ][td][tip=Poisonium Fragment][item=Poisonium Fragment][/tip]x[inventory=Poisonium Fragment][/td][
+                                    ][td][tip=Groundium Fragment][item=Groundium Fragment][/tip]x[inventory=Groundium Fragment][/td][
+                                    ][td][tip=Flyinium Fragment][item=Flyinium Fragment][/tip]x[inventory=Flyinium Fragment][/td][
+                                    ][td][tip=Psychium Fragment][item=Psychium Fragment][/tip]x[inventory=Psychium Fragment][/td][
+                                    ][td][tip=Buginium Fragment][item=Buginium Fragment][/tip]x[inventory=Buginium Fragment][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Rockium Fragment][item=Rockium Fragment][/tip]x[inventory=Rockium Fragment][/td][
+                                    ][td][tip=Ghostium Fragment][item=Ghostium Fragment][/tip]x[inventory=Ghostium Fragment][/td][
+                                    ][td][tip=Dragonium Fragment][item=Dragonium Fragment][/tip]x[inventory=Dragonium Fragment][/td][
+                                    ][td][tip=Darkinium Fragment][item=Darkinium Fragment][/tip]x[inventory=Darkinium Fragment][/td][
+                                    ][td][tip=Steelium Fragment][item=Steelium Fragment][/tip]x[inventory=Steelium Fragment][/td][
+                                    ][td][tip=Fairium Fragment][item=Fairium Fragment][/tip]x[inventory=Fairium Fragment][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][th=3x1]Z-Fragment Total:[/th][td=3x1][math][inventory=Normalium Fragment]+[inventory=Firium Fragment]+[inventory=Waterium Fragment]+[inventory=Electrium Fragment]+[inventory=Electrium Fragment]+[inventory=Grassium Fragment]+[inventory=Icium Fragment]+[inventory=Fightinium Fragment]+[inventory=Poisonium Fragment]+[inventory=Groundium Fragment]+[inventory=Flyinium Fragment]+[inventory=Psychium Fragment]+[inventory=Buginium Fragment]+[inventory=Rockium Fragment]+[inventory=Ghostium Fragment]+[inventory=Dragonium Fragment]+[inventory=Darkinium Fragment]+[inventory=Steelium Fragment]+[inventory=Fairium Fragment][/math][/td][
+                                ][/tr][
+                                
+                            ][/table][
+                        
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Gems"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                                
+                                ][tr][
+                                    ][th=1x1]Type[/th][
+                                    ][th=1x1]Small[/th][
+                                    ][th=1x1]Medium[/th][
+                                    ][th=1x1]Large[/th][
+                                    ][th]Flawless[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=normal][/td][
+                                    ][td][item=Normal Gem] x[inventory=Normal Gem][/td][
+                                    ][td][item=Medium Normal Gem] x[inventory=Medium Normal Gem][/td][
+                                    ][td][Item=Large Normal Gem] x[inventory=Large Normal Gem][/td][
+                                    ][td][Item=Flawless Normal Gem] x[inventory=Flawless Normal Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Fire][/td][
+                                    ][td][item=Fire Gem] x[inventory=Fire Gem][/td][
+                                    ][td][item=Medium Fire Gem] x[inventory=Medium Fire Gem][/td][
+                                    ][td][Item=Large Fire Gem] x[Inventory=Large Fire Gem][/td][
+                                    ][td][Item=Flawless Fire Gem] x[inventory=Flawless Fire Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Water][/td][
+                                    ][td][item=Water Gem] x[inventory=Water Gem][/td][
+                                    ][td][item=Medium Water Gem] x[inventory=Medium Water Gem][/td][
+                                    ][td][Item=Large Water Gem] x[Inventory=Large Water Gem][/td][
+                                    ][td][Item=Flawless Water Gem] x[inventory=Flawless Water Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Electric][/td][
+                                    ][td][item=Electric Gem] x[inventory=Electric Gem][/td][
+                                    ][td][item=Medium Electric Gem] x[inventory=Medium Electric Gem][/td][
+                                    ][td][Item=Large Electric Gem] x[Inventory=Large Electric Gem][/td][
+                                    ][td][Item=Flawless Electric Gem] x[inventory=Flawless Electric Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Grass][/td][
+                                    ][td][item=Grass Gem] x[inventory=Grass Gem][/td][
+                                    ][td][item=Medium Grass Gem] x[inventory=Medium Grass Gem][/td][
+                                    ][td][Item=Large Grass Gem] x[Inventory=Large Grass Gem][/td][
+                                    ][td][Item=Flawless Grass Gem] x[inventory=Flawless Grass Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Bug][/td][
+                                    ][td][item=Bug Gem] x[inventory=Bug Gem][/td][
+                                    ][td][item=Medium Bug Gem] x[inventory=Medium Bug Gem][/td][
+                                    ][td][item=Large Bug Gem] x[inventory=Large Bug Gem][/td][
+                                    ][td][Item=Flawless Bug Gem] x[inventory=Flawless Bug Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Poison][/td][
+                                    ][td][item=Poison Gem] x[inventory=Poison Gem][/td][
+                                    ][td][item=Medium Poison Gem] x[inventory=Medium Poison Gem][/td][
+                                    ][td][Item=Large Poison Gem] x[Inventory=Large Poison Gem][/td][
+                                    ][td][Item=Flawless Poison Gem] x[inventory=Flawless Poison Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Ice][/td][
+                                    ][td][item=Ice Gem] x[inventory=Ice Gem][/td][
+                                    ][td][item=Medium Ice Gem] x[inventory=Medium Ice Gem][/td][
+                                    ][td][Item=Large Ice Gem] x[Inventory=Large Ice Gem][/td][
+                                    ][td][Item=Flawless Ice Gem] x[inventory=Flawless Ice Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Ground][/td][
+                                    ][td][item=Ground Gem] x[inventory=Ground Gem][/td][
+                                    ][td][item=Medium Ground Gem] x[inventory=Medium Ground Gem][/td][
+                                    ][td][Item=Large Ground Gem] x[Inventory=Large Ground Gem][/td][
+                                    ][td][Item=Flawless Ground Gem] x[inventory=Flawless Ground Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Flying][/td][
+                                    ][td][item=Flying Gem] x[Inventory=Flying Gem][/td][
+                                    ][td][item=Medium Flying Gem] x[Inventory=Medium Flying Gem][/td][
+                                    ][td][Item=Large Flying Gem] x[Inventory=Large Flying Gem][/td][
+                                    ][td][Item=Flawless Flying Gem] x[inventory=Flawless Flying Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Psychic][/td][
+                                    ][td][item=Psychic Gem] x[inventory=Psychic Gem][/td][
+                                    ][td][item=Medium Psychic Gem] x[inventory=Medium Psychic Gem][/td][
+                                    ][td][Item=Large Psychic Gem] x[Inventory=Large Psychic Gem][/td][
+                                    ][td][Item=Flawless Psychic Gem] x[inventory=Flawless Psychic Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Fighting][/td][
+                                    ][td][item=Fighting Gem] x[inventory=Fighting Gem][/td][
+                                    ][td][item=Medium Fighting Gem] x[inventory=Medium Fighting Gem][/td][
+                                    ][td][Item=Large Fighting Gem] x[Inventory=Large Fighting Gem][/td][
+                                    ][td][Item=Flawless Fighting Gem] x[inventory=Flawless Fighting Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Rock][/td][
+                                    ][td][item=Rock Gem] x[inventory=Rock Gem][/td][
+                                    ][td][item=Medium Rock Gem] x[inventory=Medium Rock Gem][/td][
+                                    ][td][Item=Large Rock Gem] x[Inventory=Large Rock Gem][/td][
+                                    ][td][Item=Flawless Rock Gem] x[inventory=Flawless Rock Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Ghost][/td][
+                                    ][td][item=Ghost Gem] x[inventory=Ghost Gem][/td][
+                                    ][td][item=Medium Ghost Gem] x[inventory=Medium Ghost Gem][/td][
+                                    ][td][Item=Large Ghost Gem] x[Inventory=Large Ghost Gem][/td][
+                                    ][td][Item=Flawless Ghost Gem] x[inventory=Flawless Ghost Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Dragon][/td][
+                                    ][td][item=Dragon Gem] x[Inventory=Dragon Gem][/td][
+                                    ][td][item=Medium Dragon Gem] x[Inventory=Medium Dragon Gem][/td][
+                                    ][td][Item=Large Dragon Gem] x[Inventory=Large Dragon Gem][/td][
+                                    ][td][Item=Flawless Dragon Gem] x[inventory=Flawless Dragon Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Dark][/td][
+                                    ][td][item=Dark Gem] x[inventory=Dark Gem][/td][
+                                    ][td][item=Medium Dark Gem] x[inventory=Medium Dark Gem][/td][
+                                    ][td][Item=Large Dark Gem] x[Inventory=Large Dark Gem][/td][
+                                    ][td][Item=Flawless Dark Gem] x[inventory=Flawless Dark Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Steel][/td][
+                                    ][td][item=Steel Gem] x[inventory=Steel Gem][/td][
+                                    ][td][item=Medium Steel Gem] x[inventory=Medium Steel Gem][/td][
+                                    ][td][Item=Large Steel Gem] x[Inventory=Large Steel Gem][/td][
+                                    ][td][Item=Flawless Steel Gem] x[inventory=Flawless Steel Gem][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][type=Fairy][/td][
+                                    ][td][item=Fairy Gem]x[inventory=Fairy Gem][/td][
+                                    ][td][item=Medium Fairy Gem]x[inventory=Medium Fairy Gem][/td][
+                                    ][td][Item=Large Fairy Gem]x[Inventory=Large Fairy Gem][/td][
+                                    ][td][Item=Flawless Fairy Gem]x[inventory=Flawless Fairy Gem][/td][
+                                ][/tr][
+                                
+                            ][/table][
+                            
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Berries"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                            
+                                ][tr][
+                                    ][th]Common[/th][
+                                    ][th]Uncommon[/th][
+                                    ][th]Rare[/th][
+                                    ][th]Special[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Cheri Berry][item=Cheri Berry][/tip]x[inventory=Cheri Berry][/td][
+                                    ][td][tip=Razz Berry][item=Razz Berry][/tip]x[inventory=Razz Berry][/td][
+                                    ][td][tip=Occa Berry][item=Occa Berry][/tip]x[inventory=Occa Berry][/td][
+                                    ][td][tip=Liechi Berry][item=Liechi Berry][/tip] x[inventory=Liechi Berry][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Chesto Berry][item=Chesto Berry][/tip]x[inventory=Chesto Berry][/td][
+                                    ][td][tip=Bluk Berry][item=Bluk Berry][/tip]x[inventory=Bluk Berry][/td][
+                                    ][td][tip=Passho Berry][item=Passho Berry][/tip]x[inventory=Passho Berry][/td][
+                                    ][td][tip=Ganlon Berry][item=Ganlon Berry][/tip]x[inventory=Ganlon Berry][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Pecha Berry][item=Pecha Berry][/tip]x[inventory=Pecha Berry][/td][
+                                    ][td][tip=Nanab Berry][item=Nanab Berry][/tip]x[inventory=Nanab Berry][/td][
+                                    ][td][tip=Wacan Berry][item=Wacan Berry][/tip]x[inventory=Wacan Berry][/td][
+                                    ][td][tip=Salac Berry][item=Salac Berry][/tip]x[inventory=Salac Berry][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Rawst Berry][item=Rawst Berry][/tip]x[inventory=Rawst Berry][/td][
+                                    ][td][tip=Wepear Berry][item=Wepear Berry][/tip]x[inventory=Wepear Berry][/td][
+                                    ][td][tip=Rindo Berry][item=Rindo Berry][/tip] x[inventory=Rindo Berry][/td][
+                                    ][td][tip=Petaya Berry][item=Petaya Berry][/tip] x[inventory=Petaya Berry][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Aspear Berry][item=Aspear Berry][/tip]x[inventory=Aspear Berry][/td][
+                                    ][td][tip=Pinap Berry][item=Pinap Berry][/tip]x[inventory=Pinap Berry][/td][
+                                    ][td][tip=Yache Berry][item=Yache Berry][/tip]x[inventory=Yache Berry][/td][
+                                    ][td][tip=Apicot Berry][item=Apicot Berry][/tip]x[inventory=Apicot Berry][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Leppa Berry][item=Leppa Berry][/tip]x[inventory=Leppa Berry][/td][
+                                    ][td][tip=Pomeg Berry][item=Pomeg Berry][/tip]x[inventory=Pomeg Berry][/td][
+                                    ][td][tip=Chople Berry][item=Chople Berry][/tip]x[inventory=Chople Berry][/td][
+                                    ][td][tip=Starf Berry][item=Starf Berry][/tip]x[inventory=Starf Berry][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Oran Berry][item=Oran Berry][/tip]x[inventory=Oran Berry][/td][
+                                    ][td][tip=Kelpsy Berry][item=Kelpsy Berry][/tip]x[inventory=Kelpsy Berry][/td][
+                                    ][td][tip=Kebia Berry][item=Kebia Berry][/tip]x[inventory=Kebia Berry][/td][
+                                    ][td][tip=Enigma Berry][item=Enigma Berry][/tip]x[inventory=Enigma Berry][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Persim Berry][item=Persim Berry][/tip]x[inventory=Persim Berry][/td][
+                                    ][td][tip=Qualot Berry][item=Qualot Berry][/tip]x[inventory=Qualot Berry][/td][
+                                    ][td][tip=Shuca Berry][item=Shuca Berry][/tip]x[inventory=Shuca Berry][/td][
+                                    ][td][tip=Micle Berry][item=Micle Berry][/tip]x[inventory=Micle Berry][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Lum Berry][item=Lum Berry][/tip]x[inventory=Lum Berry][/td][
+                                    ][td][tip=Hondew Berry][item=Hondew Berry][/tip]x[inventory=Hondew Berry][/td][
+                                    ][td][tip=Coba Berry][item=Coba Berry][/tip]x[inventory=Coba Berry][/td][
+                                    ][td][tip=Custap Berry][item=Custap Berry][/tip]x[inventory=Custap Berry][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Sitrus Berry][item=Sitrus Berry][/tip]x[inventory=Sitrus Berry][/td][
+                                    ][td][tip=Grepa Berry][item=Grepa Berry][/tip]x[inventory=Grepa Berry][/td][
+                                    ][td][tip=Payapa Berry][item=Payapa Berry][/tip] x[inventory=Payapa Berry][/td][
+                                    ][td][tip=Jaboca Berry][item=Jaboca Berry][/tip] x[inventory=Jaboca Berry][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Figy Berry][item=Figy Berry][/tip]x[inventory=Figy Berry][/td][
+                                    ][td][tip=Tamato Berry][item=Tamato Berry][/tip]x[inventory=Tamato Berry][/td][
+                                    ][td][tip=Tanga Berry][item=Tanga Berry][/tip]x[inventory=Tanga Berry][/td][
+                                    ][td][tip=Lansat Berry][item=Lansat Berry][/tip]x[inventory=Lansat Berry][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Wiki Berry][item=Wiki Berry][/tip]x[inventory=Wiki Berry][/td][
+                                    ][td][tip=Cornn Berry][item=Cornn Berry][/tip]x[inventory=Cornn Berry][/td][
+                                    ][td][tip=Charti Berry][item=Charti Berry][/tip]x[inventory=Charti Berry][/td][
+                                    ][td][tip=Rowap Berry][item=Rowap Berry][/tip]x[inventory=Rowap Berry][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Mago Berry][item=Mago Berry][/tip]x[inventory=Mago Berry][/td][
+                                    ][td][tip=Magost Berry][item=Magost Berry][/tip]x[inventory=Magost Berry][/td][
+                                    ][td][tip=Kasib Berry][item=Kasib Berry][/tip]x[inventory=Kasib Berry][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Aguav Berry][item=Aguav Berry][/tip]x[inventory=Aguav Berry][/td][
+                                    ][td][tip=Rabuta Berry][item=Rabuta Berry][/tip]x[inventory=Rabuta Berry][/td][
+                                    ][td][tip=Haban Berry][item=Haban Berry][/tip]x[inventory=Haban Berry][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Iapapa Berry][item=Iapapa Berry][/tip]x[inventory=Iapapa Berry][/td][
+                                    ][td][tip=Nomel Berry][item=Nomel Berry][/tip]x[inventory=Nomel Berry][/td][
+                                    ][td][tip=Colbur Berry][item=Colbur Berry][/tip]x[inventory=Colbur Berry][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][/td][
+                                    ][td][tip=Spelon Berry][item=Spelon Berry][/tip]x[inventory=Spelon Berry][/td][
+                                    ][td][tip=Babiri Berry][item=Babiri Berry][/tip]x[inventory=Tanga Berry][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][/td][
+                                    ][td][tip=Pamtre Berry][item=Pamtre Berry][/tip]x[inventory=Pamtre Berry][/td][
+                                    ][td][tip=Chilan Berry][item=Chilan Berry][/tip]x[inventory=Chilan Berry][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][/td][
+                                    ][td][tip=Watmel Berry][item=Watmel Berry][/tip]x[inventory=Watmel Berry][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][/td][
+                                    ][td][tip=Durin Berry][item=Durin Berry][/tip]x[inventory=Durin Berry][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][/td][
+                                    ][td][tip=Belue Berry][item=Belue Berry][/tip]x[inventory=Belue Berry][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                            
+                            ][/table][
+                        
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Boxes"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                            
+                                ][tr][
+                                    ][th=6x1]Boxes[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Cute Box][item=Cute Box][/tip] x[inventory=Cute Box][/td][
+                                    ][td][tip=Dainty Box][item=Dainty Box][/tip] x[inventory=Dainty Box][/td][
+                                    ][td][tip=Deluxe Box][item=Deluxe Box][/tip] x[inventory=Deluxe Box][/td][
+                                    ][td][tip=Glittery Box][item=Glittery Box][/tip] x[inventory=Glittery Box][/td][
+                                    ][td][tip=Gorgeous Box][item=Gorgeous Box][/tip] x[inventory=Gorgeous Box][/td][
+                                    ][td][tip=Hard Box][item=Hard Box][/tip] x[inventory=Hard Box][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Heavy Box][item=Heavy Box][/tip] x[inventory=Heavy Box][/td][
+                                    ][td][tip=Light Box][item=Light Box][/tip] x[inventory=Light Box][/td][
+                                    ][td][tip=Nifty Box][item=Nifty Box][/tip] x[inventory=Nifty Box][/td][
+                                    ][td][tip=Pretty Box][item=Pretty Box][/tip] x[inventory=Pretty Box][/td][
+                                    ][td][tip=Shiny Box][item=Shiny Box][/tip] x[inventory=Shiny Box][/td][
+                                    ][td][tip=Sinister Box][item=Sinister Box][/tip] x[inventory=Sinister Box][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Box Box][item=Box Box][/tip]x[inventory=Box Box][/td][
+                                    ][td][tip=Box Box Box][item=Box Box Box][/tip]x[inventory=Box Box Box][/td][
+                                    ][td][tip=Gragon's Stash][item=Gragon's Stash][/tip]x[inventory=Gragon's Stash][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                            
+                            ][/table][
+                        
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Treasure"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                            
+                                ][tr][
+                                    ][th=7x1]Treasure[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Relic Copper][item=Relic Copper][/tip] x[inventory=Relic Copper][/td][
+                                    ][td][tip=Relic Silver][item=Relic Silver][/tip] x[inventory=Relic Silver][/td][
+                                    ][td][tip=Relic Gold][item=Relic Gold][/tip] x[inventory=Relic Gold][/td][
+                                    ][td][tip=Relic Vase][item=Relic Vase][/tip] x[inventory=Relic Vase][/td][
+                                    ][td][tip=Relic Band][item=Relic Band][/tip] x[inventory=Relic Band][/td][
+                                    ][td][tip=Relic Statue][item=Relic Statue][/tip] x[inventory=Relic Statue][/td][
+                                    ][td][tip=Relic Crown][item=Relic Crown][/tip] x[inventory=Relic Crown][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Star Piece][item=Star Piece][/tip] x[inventory=Star Piece][/td][
+                                    ][td][tip=Gold Leaf][item=Gold Leaf][/tip] x[inventory=Gold Leaf][/td][
+                                    ][td][tip=Brick Piece][item=Brick Piece][/tip] x[inventory=Brick Piece][/td][
+                                    ][td][tip=Silver Leaf][item=Silver Leaf][/tip] x[inventory=Silver Leaf][/td][
+                                    ][td][tip=Rare Bone][item=Rare Bone][/tip] x[inventory=Rare Bone][/td][
+                                    ][td][tip=StarDust][item=StarDust][/tip] x[inventory=StarDust][/td][
+                                    ][td][tip=Nugget][item=Nugget][/tip] x[inventory=Nugget][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Pearl][item=Pearl][/tip] x[inventory=Pearl][/td][
+                                    ][td][tip=Big Pearl][item=Big Pearl][/tip] x[inventory=Big Pearl][/td][
+                                    ][td][tip=Tiny Mushroom][item=Tiny Mushroom][/tip] x[inventory=Tiny Mushroom][/td][
+                                    ][td][tip=Big Mushroom][item=Big Mushroom][/tip] x[inventory=Big Mushroom][/td][
+                                    ][td][tip=Pretty Wing][item=Pretty Wing][/tip] x[inventory=Pretty Wing][/td][
+                                    ][td][/td][
+                                    ][td][/td][
+                                ][/tr][
+                            
+                            ][/table][
+                        
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                    
+                    ][a-section="Fossils"][
+                    
+                        ][styleclass="inventory-wrapper"][
+                        
+                            ][table][
+                            
+                                ][tr][
+                                    ][th=6x1]Fossils[/th][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Dome Fossil][item=Dome Fossil][/tip] x[inventory=Dome Fossil][/td][
+                                    ][td][tip=Helix Fossil][item=Helix Fossil][/tip] x[inventory=Helix Fossil][/td][
+                                    ][td][tip=Old Amber][item=Old Amber][/tip] x[inventory=Old Amber][/td][
+                                    ][td][tip=Root Fossil][item=Root Fossil][/tip] x[inventory=Root Fossil][/td][
+                                    ][td][tip=Claw Fossil][item=Claw Fossil][/tip] x[inventory=Claw Fossil][/td][
+                                    ][td][tip=Skull Fossil][item=Skull Fossil][/tip] x[inventory=Skull Fossil][/td][
+                                ][/tr][
+                                ][tr][
+                                    ][td][tip=Armour Fossil][item=Armour Fossil][/tip] x[inventory=Armour Fossil][/td][
+                                    ][td][tip=Cover Fossil][item=Cover Fossil][/tip] x[inventory=Cover Fossil][/td][
+                                    ][td][tip=Plume Fossil][item=Plume Fossil][/tip] x[inventory=Plume Fossil][/td][
+                                    ][td][tip=Jaw Fossil][item=Jaw Fossil][/tip] x[inventory=Jaw Fossil][/td][
+                                    ][td][tip=Sail Fossil][item=Sail Fossil][/tip] x[inventory=Sail Fossil][/td][
+                                    ][td][/td][
+                                ][/tr][
+                                
+                            ][/table][
+                        
+                        ][/styleclass][
+                    
+                    ][/a-section][
+                
+                ][/accordion][
+            
+            ][/styleclass][
+        
+        ][/styleclass][
+    
+    ][/styleclass][
+
+][/styleclass]
+
+[style]
+    .content-wrapper
+    {
+        background-color: mistyrose;
+        border: 1.5px solid #B35463; // Dark Desaturated Red
+        border-radius: 8px;
+    }
+    
+    .banner-wrapper
+    {
+        background-image: url("https://pokefarm.com/upload/:J2Dw/Journal/pastel_banner.png");
+        background-clip: padding-box;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        border-radius: 8px 8px 2px 2px;
+        height: 128px;
+        position: relative;
+    }
+    
+    .credit
+    {
+        padding: 4px 4px 0px 8px;
+        color: lightcoral;
+        text-transform: lowercase;
+        font-variant: small-caps;
+        font-size: 10pt;
+        text-decoration: none;
+        
+        > .bbcode_tooltip
+        {
+            border: none;
+            text-decoration: 2px underline dotted lightcoral;
+        }
+        
+        > .tooltip_content
+        {
+            border: 1px solid #A94C5A;
+            background-color: mistyrose;
+            color: #A94C5A;
+        }
+    }
+    
+    .banner-text 
+    {
+        text-align: center;
+        position: absolute;
+        width: 40%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 16pt;
+        color: lightcoral;
+        font-family: Courier New, Trebuchet MS;
+        padding: 4px 12px 4px 12px; // top, left, bottom, right
+        border: 3px double lightcoral;
+        border-radius: 12px;
+        background-color: mistyrose;
+        font-variant: small-caps;
+        font-weight: bold;
+        box-shadow: 0 4px 8px 0 rgba(150, 0, 0, 0.2), 0 6px 20px 0 rgba(150, 0, 0, 0.19);
+    }
+    
+    .page-wrapper
+    {
+        margin: 4px;
+        padding: 2px;
+        background-color: transparent;
+        border: hidden;
+        box-shadow: 0px 0px;
+    }
+    
+    .page-content
+    {
+        border: 1px #B35463 solid;
+        border-radius: 4px 4px 4px 4px; // top left, top right, bot right, bot left
+        background-color: floralwhite;
+        padding: 8px;
+        color: maroon;
+        font-size: 13px;
+        box-shadow: 0 4px 6px 0 rgba(150, 0, 0, 0.1), 0 6px 6px 0 rgba(150, 0, 0, 0.1);
+        text-align: center;
+    }
+    
+    .inventory-section
+    {
+        width: 100%;
+        > .panel
+        {
+            border: 1px #B35463 solid;
+            background-clip: padding-box;
+            overflow: hidden;
+            
+            > h3
+            {
+                background: mistyrose;
+                border-bottom: 0.5px #B35463 solid;
+                text-align: left;
+                > a
+                {
+                    padding-top: 8px;
+                    color: #A94C5A;
+                    font-weight: bold;
+                    margin-bottom: 0px;
+                }
+            }
+            
+            > div
+            {
+                text-align: center;
+                background-color: floralwhite;
+                padding: 16px;
+                color: maroon;
+            }
+        }
+    }
+    
+    .centered-list
+    {
+        display: inline-block;
+        text-align: left;
+    }
+    
+    .inventory-wrapper 
+    {
+        border-radius: 8px;
+        > table
+        {
+            width: 100%;
+            border: hidden;
+            border: 2px #A94C5A solid;
+            border-radius: 8px;
+            border-collapse: separate;
+            background-image: linear-gradient(to bottom right, lightpink, lightcoral);
+            padding: 2px;
+            border-spacing: 3px;
+        }
+        
+        > .bbcode_table
+        {
+            > tbody
+            {
+                > tr
+                {
+                    > th
+                    {
+                        vertical-align: middle;
+                        border-radius: 4px;
+                        padding: 6px;
+                        border: 1px solid maroon;
+                        background-color: mistyrose;
+                    }
+                    > td
+                    {
+                        background-color: floralwhite;
+                        vertical-align: middle;
+                        text-align: center;
+                        border-radius: 4px;
+                        padding: 4px;
+                        border: 1px solid #A94C5A;
+                        
+                        > .bbcode_tooltip
+                        {
+                            border: none;
+                            border-bottom: 1px dotted #A94C5A;
+                        }
+                        
+                        > .tooltip_content
+                        {
+                            border: 1px solid #A94C5A;
+                            background-color: mistyrose;
+                            color: #A94C5A;
+                            font-size: 10pt;
+                        }
+                    }
+                }
+            }
+        }
+    }
+[/style]
