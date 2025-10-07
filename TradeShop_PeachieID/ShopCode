@@ -667,6 +667,20 @@
                         
                     ][/styleclass][
                     
+                    ][hide="Accepted Swaps"][
+                       
+                        ]I'll swap these gems for any equivalent gems![
+                        ][br][br][
+                        
+                        ][tip="Fire"][item="Fire Gem"][/tip]  [
+                        ][tip="Grass"][item="Grass Gem"][/tip]  [
+                        ][tip="Type"][item="Normal Gem"][/tip]  [
+                    
+                    If you want them to be separated by a linebreak, you can add a br tag insteead of the two spaces
+                    
+                    ][/hide][
+                    ][br][
+                    
                     ][styleclass="inventory-wrapper"][
                     
                         ][table][
