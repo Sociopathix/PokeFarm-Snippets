@@ -1,0 +1,152 @@
+[styleclass=content-wrapper][
+
+    ][styleclass=banner-wrapper][
+    
+        ][styleclass="credit"][
+            ][pit="credit"]Code @[url=https://pokefarm.com/user/Sociopathix]Sociopathix[/url][/pit][
+        ][/styleclass][
+        
+        ][styleclass="banner-text"][
+            ]Current Goals[
+        ][/styleclass][
+        
+    ][/styleclass][
+    
+    ][styleclass="page-wrapper"][
+
+        ][styleclass="page-content"][
+            
+            ][styleclass="centered-list"][
+        
+                ]★ [s]Raise GP for Shelter Pass S[/s][br][
+                ]☆ Kanto Living Dex (Normals)[br][
+                ]       ☆ Ditto[br][
+                ]       ☆ Sylveon[br][
+                ]☆ Kanto Living Dex (Legendaries) (1 / 5)[br][
+                ]★ [s]Johto Living Dex (Normals)[/s][br][
+                ]☆ Johto Living Dex (Legendaries) (1 / 6)[br][
+                ]☆ Hoenn Living Dex (Normals)[br][
+                ]☆ Hoenn Living Dex (Legendaries)[br][
+                ]☆ F2U Codex Thread[br][
+                ]☆ Specials / Items Shop[br][
+                ]☆ Art / Custom Code Shop[br][
+                ]☆ Gardevoir Specials[br][
+                ]       ☆ Shiny (0 / 4)[br][
+                ]       ☆ Albino (2 / 4)[br][
+                ]       ☆ Melan (0 / 4)[br][
+            For Checklist: ☆ ★
+            ][/styleclass][
+            
+        ][/styleclass][
+        
+    ][/styleclass][
+
+][/styleclass]
+
+[style]
+    .content-wrapper
+    {
+        background-color: mistyrose;
+        border: 1.5px solid #B35463; // Dark Desaturated Red
+        border-radius: 8px;
+    }
+    
+    .banner-wrapper
+    {
+        background-image: url("https://pokefarm.com/upload/:J2Dw/Journal/pastel_banner.png");
+        background-clip: padding-box;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        border-radius: 8px 8px 2px 2px;
+        height: 128px;
+        position: relative;
+    }
+    
+    .credit
+    {
+        padding: 4px 4px 0px 8px;
+        color: lightcoral;
+        text-transform: lowercase;
+        font-variant: small-caps;
+        font-size: 10pt;
+        text-decoration: none;
+        
+        > .bbcode_tooltip
+        {
+            border: none;
+            text-decoration: 2px underline dotted lightcoral;
+        }
+        
+        > .tooltip_content
+        {
+            border: 1px solid #A94C5A;
+            background-color: mistyrose;
+            color: #A94C5A;
+        }
+    }
+    
+    .banner-text 
+    {
+        text-align: center;
+        position: absolute;
+        width: 40%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 16pt;
+        color: lightcoral;
+        font-family: Courier New, Trebuchet MS;
+        padding: 4px 12px 4px 12px; // top, left, bottom, right
+        border: 3px double lightcoral;
+        border-radius: 12px;
+        background-color: mistyrose;
+        font-variant: small-caps;
+        font-weight: bold;
+        box-shadow: 0 4px 8px 0 rgba(150, 0, 0, 0.2), 0 6px 20px 0 rgba(150, 0, 0, 0.19);
+    }
+    
+    .page-wrapper
+    {
+        margin: 4px;
+        padding: 2px;
+        background-color: transparent;
+        border: hidden;
+        box-shadow: 0px 0px;
+    }
+    
+    .page-content
+    {
+        border: 1px #B35463 solid;
+        border-radius: 4px 4px 4px 4px; // top left, top right, bot right, bot left
+        background-color: floralwhite;
+        padding: 8px;
+        color: maroon;
+        font-size: 10pt;
+        box-shadow: 0 4px 6px 0 rgba(150, 0, 0, 0.1), 0 6px 6px 0 rgba(150, 0, 0, 0.1);
+        text-align: center;
+    }
+    
+    .centered-list
+    {
+        display: inline-block;
+        text-align: left;
+    }
+    
+    a
+    {
+        transition: 0.3s;
+        font-size: 10pt;
+        text-decoration: 1px underline solid #A94C5A;
+        color: #A94C5A;
+    }
+    
+    a:hover
+    {
+        transition: 0.3s;
+        font-size: 10.5pt;
+        text-decoration: 1px underline solid maroon;
+        color: maroon;
+    }
+[/style]
