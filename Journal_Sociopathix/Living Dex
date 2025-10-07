@@ -1,0 +1,245 @@
+[styleclass=content-wrapper][
+
+    ][styleclass=banner-wrapper][
+    
+        ][styleclass="credit"][
+            ][pit="credit"]Code @[url=https://pokefarm.com/user/Sociopathix]Sociopathix[/url][/pit][
+        ][/styleclass][
+        
+        ][styleclass="banner-text"][
+            ]Living Dex[
+        ][/styleclass][
+        
+    ][/styleclass][
+    
+    ][styleclass="page-wrapper"][
+
+        ][styleclass="page-content"][
+            
+            ][styleclass="dex-entry"][
+            
+                ][styleclass="region"][
+                    ][h2]Kanto[/h2][
+                    ][styleclass="dex-numbers"]001 - 166[/styleclass][
+                ][/styleclass][
+                
+                ][progress="162/166"]162 / 166[/progress][
+                
+                ][br][u]Missing Pokemon:[/u][br][br][
+                ][tip="Ditto"][pkmn="Ditto"][/tip][
+                ][tip="Articuno"][pkmn="Articuno"][/tip][
+                ][tip="Moltres"][pkmn="Moltres"][/tip][
+                ][tip="Mewtwo"][pkmn="Mewtwo"][/tip][
+                
+            ][/styleclass][
+            
+            ][br][hr][br][
+            
+            ][styleclass="dex-entry"][
+            
+                ][styleclass="region"][
+                    ][h2]Johto[/h2][
+                    ][styleclass="dex-numbers"]167 - 265[/styleclass][
+                ][/styleclass][
+                
+                ][progress="94/99"]94 / 99[/progress][
+                
+                ][br][u]Missing Pokemon:[/u][br][br][
+                ][tip="Raikou"][pkmn="Raikou"][/tip][
+                ][tip="Suicune"][pkmn="Suicune"][/tip][
+                ][tip="Lugia"][pkmn="Lugia"][/tip][
+                ][tip="Ho-oh"][pkmn="Ho-oh"][/tip][
+                ][tip="Celebi"][pkmn="Celebi"][/tip][
+
+            ][/styleclass][
+            
+            ][br][hr][br][
+            
+            ][styleclass="dex-entry"][
+            
+                ][styleclass="region"][
+                    ][h2]Hoenn[/h2][
+                    ][styleclass="dex-numbers"]266 - 404[/styleclass][
+                ][/styleclass][
+                
+                ][progress="126/139"]126 / 139[/progress][
+                
+                ][br][u]Missing Pokemon:[/u][br][br][
+                ][tip="Barboach"][pkmn="Barboach"][/tip][
+                ][tip="Huntail"][pkmn="Huntail"][/tip][
+                ][tip="Gorebyss"][pkmn="Gorebyss"][/tip][
+                ][tip="Regirock"][pkmn="Regirock"][/tip][
+                ][tip="Regice"][pkmn="Regice"][/tip][
+                ][tip="Registeel"][pkmn="Registeel"][/tip][
+                ][tip="Latias"][pkmn="Latias"][/tip][
+                ][tip="Latios"][pkmn="Latios"][/tip][
+                ][tip="Kyogre"][pkmn="Kyogre"][/tip][
+                ][tip="Groudon"][pkmn="Groudon"][/tip][
+                ][tip="Rayquaza"][pkmn="Rayquaza"][/tip][
+                ][tip="Jirachi"][pkmn="Jirachi"][/tip][
+                ][tip="Deoxys"][pkmn="Deoxys"][/tip][
+
+            ][/styleclass][
+            
+        ][/styleclass][
+        
+    ][/styleclass][
+
+][/styleclass]
+
+[style]
+    .content-wrapper
+    {
+        background-color: mistyrose;
+        border: 1.5px solid #B35463; // Dark Desaturated Red
+        border-radius: 8px;
+    }
+    
+    .banner-wrapper
+    {
+        background-image: url("https://pokefarm.com/upload/:J2Dw/Journal/pastel_banner.png");
+        background-clip: padding-box;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        border-radius: 8px 8px 2px 2px;
+        height: 128px;
+        position: relative;
+    }
+    
+    .credit
+    {
+        color: lightcoral;
+        font-size: 10pt;
+        font-variant: small-caps;
+        padding: 4px 4px 0px 8px;
+        text-decoration: none;
+        text-transform: lowercase;
+        
+        > .bbcode_tooltip
+        {
+            border: none;
+            text-decoration: 2px underline dotted lightcoral;
+        }
+        
+        > .tooltip_content
+        {
+            border: 1px solid #A94C5A;
+            background-color: mistyrose;
+            color: #A94C5A;
+        }
+    }
+    
+    .banner-text 
+    {
+        background-color: mistyrose;
+        border: 3px double lightcoral;
+        border-radius: 12px;
+        box-shadow: 0 4px 8px 0 rgba(150, 0, 0, 0.2), 0 6px 20px 0 rgba(150, 0, 0, 0.19);
+        color: lightcoral;
+        font-family: Courier New, Trebuchet MS;
+        font-size: 16pt;
+        font-variant: small-caps;
+        font-weight: bold;
+        left: 50%;
+        padding: 4px 12px 4px 12px; // top, left, bottom, right
+        position: absolute;
+        text-align: center;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 40%;
+    }
+    
+    .page-wrapper
+    {
+        background-color: transparent;
+        border: hidden;
+        box-shadow: 0px 0px;
+        margin: 4px;
+        padding: 2px;
+    }
+    
+    .page-content
+    {
+        background-color: floralwhite;
+        border: 1px #B35463 solid;
+        border-radius: 4px 4px 4px 4px; // TL, TR, BR, BL
+        box-shadow: 0 4px 6px 0 rgba(150, 0, 0, 0.1), 0 6px 6px 0 rgba(150, 0, 0, 0.1);
+        color: maroon;
+        display: grid;
+        font-size: 10pt;
+        padding: 8px;
+    }
+    
+    .dex-entry
+    {
+        margin: auto;
+        text-align: center;
+        width: 85%;
+        
+        > .region
+        {
+            color: maroon;
+            margin-bottom: 20px;
+            
+            > h2
+            {
+                margin-bottom: 0px;
+            }
+            
+            > .dex-numbers
+            {
+                background-color: mistyrose;
+                border: 1px solid lightcoral;
+                border-radius: 2px;
+                font-size: 8pt;
+                margin: auto;
+                padding: 1px;
+                width: 12%;
+            }
+        }
+        
+        > .expbar
+        {
+            color: maroon;
+            background-color: lightcoral;
+            border: 1.5px solid maroon;
+            
+            > div
+            {
+                background-color: lightpink;
+                border-right: 1px solid #B35463;
+            }
+        }
+        
+        > .bbcode_tooltip
+        {
+            border: none;
+        }
+    }
+    
+    hr
+    {
+        border: none;
+        height: 1px;
+        width: 95%;
+        background-color: lightcoral;
+    }
+    
+    a
+    {
+        transition: 0.3s;
+        font-size: 10pt;
+        text-decoration: 1px underline solid #A94C5A;
+        color: #A94C5A;
+    }
+    
+    a:hover
+    {
+        transition: 0.3s;
+        font-size: 10.5pt;
+        text-decoration: 1px underline solid maroon;
+        color: maroon;
+    }
+[/style]
