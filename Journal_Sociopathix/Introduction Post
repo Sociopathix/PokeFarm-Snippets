@@ -1,0 +1,300 @@
+[styleclass=content-wrapper][
+
+    ][styleclass=banner-wrapper][
+    
+        ][styleclass="credit"][
+            ][pit="credit"]Code @[url=https://pokefarm.com/user/Sociopathix]Sociopathix[/url][/pit][
+        ][/styleclass][
+        
+        ][styleclass="banner-text"][
+            ]Pastel Grimoire[
+        ][/styleclass][
+        
+    ][/styleclass][
+    
+    ][styleclass="tabbed_interface horizontal"][
+    
+        ][ul][
+            ][li]Introduction[/li][
+            ][li]Table of Contents[/li][
+            ][li]Important Links[/li][
+        ][/ul][
+        
+        ][styleclass="page-wrapper"][
+        
+            ][styleclass="tab"][
+            
+                ][styleclass="page-content"][
+                
+                    ]Hey there! I've been technically playing PFQ since 2023, but honestly, I know next to nothing, haha. When I first joined, I thought the journaling feature of the site was so neat, and it's definitely helped me get back into the game after so long.[
+                    ][br][br][
+                    ]However, I did stay true to my word, and I am slowly making my journal prettier! I'm really excited about it, actually, haha. I hope you all enjoy your stay here at my little cozy hovel as much as I enjoyed creating it.[
+                    ][br][br][
+                    ]As before, I am looking for friends to trade and help best I can. I hope to open a shop soon, as well as a codex! We'll see how this goes.[
+                    ][br][br][
+                    
+                    ][h2][u]About Me[/u][/h2][
+                    ][br][
+                    ][b]Name:[/b] Andi / Socio[br][
+                    ][b]Pronouns:[/b] They / Them[br][
+                    ][b]Sexuality:[/b] Queer[br][
+                    ][b]Age:[/b] 24[br][
+                    
+                    ][br][
+                    ]I am a recent computer science graduate (should totally check out my thesis) dealing with the job-search grind. Since I work in education, I honestly don't expect to get a second job until the spring. I have another part-time job where I teach remote, but the hours are limited, so I'll prolly be pretty active here again for a while.[
+                    ][br][br][
+                    ]I love teaching! And I love programming! Unfortunately, that's a huge chunk of my personality, haha. My favorite content to teach is game development tutorials, but I also teach AP Computer Science and other CS courses on a K-12 level. My research is focused on using game development as a medium to teach computer science![
+                    ][br][br][
+                    
+                    ][h2][u]Interests[/u][/h2][
+                    ][br][
+                    ]In my free time, I obviously like to play and watch Pokemon. I'm super excited for the Legends game, even if it may be not that good. I watch a lot of YouTube, podcasts like Creep Cast and the Lore Lodge, Wendigoon, Leon Lush, Game Grumps, and occasionally classic gaming YouTubers. I also really enjoy a long-form video essay once in a while about obscure subjects.[
+                    ][br][br][
+                    ]I also love to program. Yes, for fun lol. I have a couple game development projects up my sleeve that I'd like to release one day - maybe in the next couple of years. I also have a pet-site I've been developing for a few years, not sure if it'll ever be publlic, but it's a fun exercise.[
+                    ][br][br][
+                    ]I occasionally do art, but not as often as I did when I was in art school (keep in mind my DeviantArt has some pretty outdated stuff). I clearly also have been spending a lot of time on PokeFarm, haha. It keeps me busy and doesn't drain my energy, so it's a nice past time (as many of my hobbies are mentally exhausting). I also like to do puzzle/logic games, like sudoku and nonograms. :>[
+                    ][br][br][
+                    ]Anyway, that's enough about me! Click on the tabs to navigate around this journal and enjoy your stay![
+                    
+                ][/styleclass][
+                
+            ][/styleclass][
+        
+        ][/styleclass][
+        
+        ][styleclass="page-wrapper"][
+            
+            ][styleclass="tab"][
+            
+                ][styleclass="page-content"][
+                
+                    ][styleclass="toc-link"][
+                        ][url=https://pokefarm.com/forum/thread/342620/Pastel-Grimoire/post/6384361]Current Goals[/url][
+                    ][/styleclass][
+                    
+                    ][styleclass="toc-link"][
+                        ][url=https://pokefarm.com/forum/thread/342620/Pastel-Grimoire/post/6384367]Milestones[/url][
+                    ][/styleclass][
+                    
+                    ][styleclass="toc-link"][
+                        ][url=https://pokefarm.com/forum/thread/342620/Pastel-Grimoire/post/6385465]Hunts[/url][
+                    ][/styleclass][
+                    
+                    ][styleclass="toc-link"][
+                        ][url=https://pokefarm.com/forum/thread/342620/Pastel-Grimoire/post/6385467]Type Race[/url][
+                    ][/styleclass][
+                    
+                    ][styleclass="toc-link"][
+                        ][url=https://pokefarm.com/forum/thread/342620/Pastel-Grimoire/post/6385468]Breeding Pairs[/url][
+                    ][/styleclass][
+                    
+                    ][styleclass="toc-link"][
+                        ][url=https://pokefarm.com/forum/thread/342620/Pastel-Grimoire/post/6385470]Living Dex[/url][
+                    ][/styleclass][
+                    
+                    ][styleclass="toc-link"][
+                        ][url=https://pokefarm.com/forum/thread/342620/Pastel-Grimoire/post/6385472]Wishforge[/url][
+                    ][/styleclass][
+                    
+                    ][styleclass="toc-link"][
+                        ][url=https://pokefarm.com/forum/thread/342620/Pastel-Grimoire/post/6385475]Current Inventory[/url][
+                    ][/styleclass][
+                    
+                    ][styleclass="toc-link"][
+                        ][url=https://pokefarm.com/forum/thread/342620/Pastel-Grimoire/post/6384354]Journey to Arceus[/url][
+                    ][/styleclass][
+                    
+                ][/styleclass][
+                
+            ][/styleclass][
+            
+        ][/styleclass][
+        
+    ][/styleclass][
+
+][/styleclass]
+
+[style]
+    .content-wrapper
+    {
+        //background-image: linear-gradient(to bottom, dustyrose, lightcoral);
+        background-color: mistyrose;
+        border: 1.5px solid #A94C5A; // Dark Desaturated Red
+        border-radius: 8px;
+    }
+    
+    .banner-wrapper
+    {
+        background-image: url("https://pokefarm.com/upload/:J2Dw/Journal/pastel_banner.png");
+        background-clip: padding-box;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        border-radius: 8px 8px 2px 2px;
+        height: 128px;
+        position: relative;
+    }
+    
+    .credit
+    {
+        padding: 4px 4px 0px 8px;
+        color: lightcoral;
+        text-transform: lowercase;
+        font-variant: small-caps;
+        font-size: 10pt;
+        text-decoration: none;
+        
+        > .bbcode_tooltip
+        {
+            border: none;
+            text-decoration: 2px underline dotted lightcoral;
+        }
+        
+        > .tooltip_content
+        {
+            border: 1px solid #A94C5A;
+            background-color: mistyrose;
+            color: #A94C5A;
+        }
+    }
+    
+    .banner-text 
+    {
+        text-align: center;
+        position: absolute;
+        width: 40%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 16pt;
+        color: lightcoral;
+        font-family: Courier New, Trebuchet MS;
+        padding: 4px 12px 4px 12px; // top, left, bottom, right
+        border: 3px double lightcoral;
+        border-radius: 12px;
+        background-color: mistyrose;
+        font-variant: small-caps;
+        font-weight: bold;
+        box-shadow: 0 4px 8px 0 rgba(150, 0, 0, 0.2), 0 6px 20px 0 rgba(150, 0, 0, 0.19);
+    }
+    
+    .page-wrapper
+    {
+        margin-top: 0px;
+        padding: 2px;
+        background-color: transparent;
+        border: hidden;
+        box-shadow: 0px 0px;
+    }
+    
+    .page-content
+    {
+        border: 1px #B35463 solid;
+        border-radius: 1px 1px 4px 4px; // top left, top right, bot right, bot left
+        background-color: floralwhite;
+        padding: 8px;
+        color: maroon;
+        font-size: 10pt;
+        text-align: center;
+        box-shadow: 0 4px 6px 0 rgba(150, 0, 0, 0.1), 0 6px 6px 0 rgba(150, 0, 0, 0.1);
+    }
+    
+    .tabbed_interface
+    {
+        background-color: transparent;
+        padding: 4px;
+        
+        > ul
+        {
+            background-color: transparent;
+            
+            > li
+            {
+                transition: 0.2s;
+                font-size: 13pt;
+                background-color: lightpink;
+                color: #A94C5A;
+                font-weight: bold;
+                font-family: Courier New, Arial, Tahoma;
+                text-align: center;
+                border: 1px maroon solid;
+                border-radius: 4px 4px 2px 2px;
+                margin: 2px;
+                padding: 4px;
+                text-decoration: underline;
+                font-variant: small-caps;
+                box-shadow: 0 4px 6px 0 rgba(150, 0, 0, 0.11), 0 6px 6px 0 rgba(150, 0, 0, 0.15);
+            }
+            
+            > li:hover
+            {
+                transition: 0.2s;
+                font-size: 13.5pt;
+                padding: 3px;
+                color: maroon;
+            }
+            
+            > li:active
+            {
+                transition: 0.2s;
+                background-color: lightcoral;
+                color: maroon;
+            }
+        }
+        > .tab
+        {
+            background-color: transparent;
+        }
+    }
+    
+    .toc-link
+    {
+        transition: 0.2s;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 25%;
+        height: 24px;
+        margin: 4px auto 8px auto;
+        padding: 4px;
+        border: 1px #B35463 solid;
+        border-radius: 6px;
+        background-color: mistyrose;
+
+        > a
+        {
+            text-decoration: 1px underline solid #A94C5A;
+            color: #A94C5A;
+        }
+    }
+    
+    .toc-link:hover
+    {
+        transition: 0.2s;
+        background-color: lightpink; 
+
+        > a
+        {
+            font-size: 10.5pt;
+            text-decoration: 1px underline solid maroon;
+            color: maroon;
+        }
+    }
+    
+    a
+    {
+        transition: 0.3s;
+        font-size: 10pt;
+        text-decoration: 1px underline solid #A94C5A;
+        color: #A94C5A;
+    }
+    
+    a:hover
+    {
+        transition: 0.3s;
+        font-size: 10.5pt;
+        text-decoration: 1px underline solid maroon;
+        color: maroon;
+    }
+[/style]
