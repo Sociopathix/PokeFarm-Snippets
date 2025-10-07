@@ -1,0 +1,1051 @@
+[styleclass="content-wrapper"][
+
+    ][styleclass="banner-wrapper"][
+        
+        ][styleclass="credit"][
+            ][pit="credit"]Code @[url=https://pokefarm.com/user/Sociopathix]Sociopathix[/url][/pit][
+        ][/styleclass][
+        
+        ][styleclass="banner-text"][
+            ]Wishforge[
+        ][/styleclass][
+        
+    ][/styleclass][
+    
+    ][styleclass="page-wrapper"][
+    
+        ][styleclass="page-content"][
+        
+            ][styleclass="wishforge-section"][
+            
+                ][accordion][
+                
+                    ][a-section="Normal"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Bronze[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Porygon-Z"][
+                                ][pkmn="Starly"][
+                                ][pkmn="Lopunny"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Normal Gem]/250"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/normal-3.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Normal Gem][
+                                    
+                                        ][inventory=Normal Gem] / 250[
+                                        
+                                    ][item=Normal Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/normal-3.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Fire"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Zinc[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Charcadet"][
+                                ][pkmn="Torchic"][
+                                ][pkmn="Ceruledge"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Fire Gem]/100"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/fire-2.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Fire Gem][
+                                    
+                                        ][inventory=Fire Gem] / 100[
+                                        
+                                    ][item=Fire Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/fire-2.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Water"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Zinc[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Totodile"][
+                                ][pkmn="Sharpedo"][
+                                ][pkmn="Corsola"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Water Gem]/100"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/water-2.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Water Gem][
+                                    
+                                        ][inventory=Water Gem] / 100[
+                                        
+                                    ][item=Water Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/water-2.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                
+                    ][a-section="Electric"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Nickle[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Toxel"][
+                                ][pkmn="Pikachu"][
+                                ][pkmn="Dracozolt"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Electric Gem]/40"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/electric-1.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Electric Gem][
+                                    
+                                        ][inventory=Electric Gem] / 40[
+                                        
+                                    ][item=Electric Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/electric-1.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Grass"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Silver[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Chikorita"][
+                                ][pkmn="Rowlet"][
+                                ][pkmn="Skiddo"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Grass Gem]/500"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/grass-4.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Grass Gem][
+                                    
+                                        ][inventory=Grass Gem] / 500[
+                                        
+                                    ][item=Grass Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/grass-4.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Ice"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Nickle[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Snom"][
+                                ][pkmn="Cetoddle"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Ice Gem]/40"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/ice-1.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Ice Gem][
+                                    
+                                        ][inventory=Ice Gem] / 40[
+                                        
+                                    ][item=Ice Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/ice-1.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Fighting"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Nickle[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Lucario"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Fighting Gem]/40"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/fighting-1.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Fighting Gem][
+                                    
+                                        ][inventory=Fighting Gem] / 40[
+                                        
+                                    ][item=Fighting Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/fighting-1.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Poison"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Zinc[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Zubat"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Poison Gem]/100"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/poison-2.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Poison Gem][
+                                    
+                                        ][inventory=Poison Gem] / 100[
+                                        
+                                    ][item=Poison Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/poison-2.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Ground"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Nickle[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Cubone"][
+                                ][pkmn="Swampert"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Ground Gem]/40"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/ground-1.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Ground Gem][
+                                    
+                                        ][inventory=Ground Gem] / 40[
+                                        
+                                    ][item=Ground Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/ground-1.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Flying"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Silver[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Decidueye"][
+                                ][pkmn="Tropius"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Flying Gem]/500"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/flying-4.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Flying Gem][
+                                    
+                                        ][inventory=Flying Gem] / 500[
+                                        
+                                    ][item=Flying Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/flying-4.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Psychic"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Bronze[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Ponyta/Galarian Forme"][
+                                ][pkmn="Abra"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Psychic Gem]/250"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/psychic-3.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Psychic Gem][
+                                    
+                                        ][inventory=Psychic Gem] / 250[
+                                        
+                                    ][item=Psychic Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/psychic-3.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Bug"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Zinc[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Joltik"][
+                                ][pkmn="Sewaddle"][
+                                ][pkmn="Heracross"][
+                                ][pkmn="Caterpie"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Bug Gem]/100"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/bug-2.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Bug Gem][
+                                    
+                                        ][inventory=Bug Gem] / 100[
+                                        
+                                    ][item=Bug Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/bug-2.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Rock"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Nickle[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Rockruff"][
+                                ][pkmn="Corsola"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Rock Gem]/40"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/rock-1.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Rock Gem][
+                                    
+                                        ][inventory=Rock Gem] / 40[
+                                        
+                                    ][item=Rock Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/rock-1.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Ghost"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Nickle[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Mimikyu"][
+                                ][pkmn="Cursola"][
+                                ][pkmn="Dhelmise"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Ghost Gem]/40"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/ghost-1.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Ghost Gem][
+                                    
+                                        ][inventory=Ghost Gem] / 40[
+                                        
+                                    ][item=Ghost Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/ghost-1.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Dragon"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Nickle[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Garchomp"][
+                                ][pkmn="Dragapult"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Dragon Gem]/40"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/dragon-1.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Dragon Gem][
+                                    
+                                        ][inventory=Dragon Gem] / 40[
+                                        
+                                    ][item=Dragon Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/dragon-1.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                    
+                    ][a-section="Dark"][
+                        
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Nickle[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Scrafty"][
+                                ][pkmn="Pawniard"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Dark Gem]/40"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/dark-1.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Dark Gem][
+                                    
+                                        ][inventory=Dark Gem] / 40[
+                                        
+                                    ][item=Dark Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/dark-1.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                
+                    ][a-section="Steel"][
+                      
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Nickle[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Meowth/Galarian Forme"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Steel Gem]/40"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/steel-1.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Steel Gem][
+                                    
+                                        ][inventory=Steel Gem] / 40[
+                                        
+                                    ][item=Steel Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/steel-1.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                            
+                    ][/a-section][
+                        
+                    ][a-section="Fairy"][
+                            
+                        ][styleclass="level-wrapper"][
+                            ][styleclass="label"][
+                                ]Level: [
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ]Bronze[
+                            ][/styleclass][
+                        ][/styleclass][
+                        
+                        ][styleclass="pokemon-wrapper"][
+                            ][styleclass="label"][
+                                ]Pokemon[
+                            ][/styleclass][
+                            ][styleclass="value"][
+                                ][pkmn="Gardevoir"][
+                                ][pkmn="Togepi"][
+                            ][/styleclass][
+                        ][/styleclass][
+                            
+                        ][styleclass="progress-wrapper"][
+                        
+                            ][progress="[inventory=Fairy Gem]/250"][
+                            
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/fairy-3.png?t=1656591213[
+                                ][/img][
+                                
+                                    ][item=Fairy Gem][
+                                    
+                                        ][inventory=Fairy Gem] / 250[
+                                        
+                                    ][item=Fairy Gem][
+                                
+                                ][img][
+                                    ]https://r2.pokefarm.com/img/badges-2/fairy-3.png?t=1656591213[
+                                ][/img][
+                                
+                            ][/progress][
+                        
+                        ][/styleclass][
+                        
+                    ][/a-section][
+                
+                ][/accordion][
+
+            ][/styleclass][
+        
+        ][/styleclass][
+    
+    ][/styleclass][
+    
+][/styleclass]
+
+[style]
+    .content-wrapper
+    {
+        background-color: mistyrose;
+        border: 1.5px solid #B35463; // Dark Desaturated Red
+        border-radius: 8px;
+    }
+    
+    .banner-wrapper
+    {
+        background-image: url("https://pokefarm.com/upload/:J2Dw/Journal/pastel_banner.png");
+        background-clip: padding-box;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: cover;
+        border-radius: 8px 8px 2px 2px;
+        height: 128px;
+        position: relative;
+    }
+    
+    .credit
+    {
+        padding: 4px 4px 0px 8px;
+        color: lightcoral;
+        text-transform: lowercase;
+        font-variant: small-caps;
+        font-size: 10pt;
+        text-decoration: none;
+        
+        > .bbcode_tooltip
+        {
+            border: none;
+            text-decoration: 2px underline dotted lightcoral;
+        }
+        
+        > .tooltip_content
+        {
+            border: 1px solid #A94C5A;
+            background-color: mistyrose;
+            color: #A94C5A;
+        }
+    }
+    
+    .banner-text 
+    {
+        text-align: center;
+        position: absolute;
+        width: 40%;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 16pt;
+        color: lightcoral;
+        font-family: Courier New, Trebuchet MS;
+        padding: 4px 12px 4px 12px; // top, left, bottom, right
+        border: 3px double lightcoral;
+        border-radius: 12px;
+        background-color: mistyrose;
+        font-variant: small-caps;
+        font-weight: bold;
+        box-shadow: 0 4px 8px 0 rgba(150, 0, 0, 0.2), 0 6px 20px 0 rgba(150, 0, 0, 0.19);
+    }
+    
+    .page-wrapper
+    {
+        margin: 4px;
+        padding: 2px;
+        background-color: transparent;
+        border: hidden;
+        box-shadow: 0px 0px;
+    }
+    
+    .page-content
+    {
+        border: 1px #B35463 solid;
+        border-radius: 4px 4px 4px 4px; // top left, top right, bot right, bot left
+        background-color: floralwhite;
+        padding: 8px;
+        color: maroon;
+        font-size: 13px;
+        box-shadow: 0 4px 6px 0 rgba(150, 0, 0, 0.1), 0 6px 6px 0 rgba(150, 0, 0, 0.1);
+        text-align: center;
+    }
+    
+    .wishforge-section
+    {
+        width: 100%;
+        > .panel
+        {
+            border: 1px #B35463 solid;
+            background-clip: padding-box;
+            overflow: hidden;
+            
+            > h3
+            {
+                background: mistyrose;
+                border-bottom: 0.5px #B35463 solid;
+                text-align: center;
+                > a
+                {
+                    padding-top: 8px;
+                    color: #A94C5A;
+                    font-weight: normal;
+                    margin-bottom: 0px;
+                }
+            }
+            
+            > div
+            {
+                text-align: center;
+                background-color: floralwhite;
+                padding: 8px 64px;
+                color: maroon;
+                
+                > .level-wrapper
+                {
+                    width: 25%;
+                    margin: 2px auto;
+                    background-color: mistyrose;
+                    display: flex;
+                    justify-content: center;
+                    border: 1px solid lightcoral;
+                    border-radius: 4px;
+                    padding: 2px;
+                    > .label
+                    {
+                        font-weight: bold;
+                    }
+                }
+                
+                > .pokemon-wrapper
+                {
+                    width: fit-content;
+                    margin: 4px auto;
+                    background-color: lightpink;
+                    border: 1px solid lightcoral;
+                    border-radius: 4px;
+                    padding: 2px;
+                    > .label
+                    {
+                        font-weight: bold;
+                    }
+                    > .value
+                    {
+                        padding-top: 6px;
+                        padding-left: 0px;
+                        padding-right: 6px;
+                        padding-bottom: 4px;
+                        background-color: mistyrose;
+                        border: 0.5px solid maroon;
+                        border-radius: 2px;
+                    }
+                }
+                
+                > .progress-wrapper > .expbar
+                {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    padding: 0px;
+                    padding-bottom: 4px;
+                    color: maroon;
+                    background-color: floralwhite;
+                    border: 1.5px solid maroon;
+                    
+                    > span .bbcode_image 
+                    {
+                        vertical-align: center;
+                        height: 100%;
+                    }
+
+                    > div
+                    {
+                        background-color: mistyrose;
+                        border-right: 1px solid lightcoral;
+                    }
+                }
+            }
+        }
+    }
+    
+    .centered-list
+    {
+        display: inline-block;
+        text-align: left;
+    }
+    
+    a
+    {
+        transition: 0.3s;
+        font-size: 10pt;
+        text-decoration: 1px underline solid #A94C5A;
+        color: #A94C5A;
+    }
+    
+    a:hover
+    {
+        transition: 0.3s;
+        font-size: 10.5pt;
+        text-decoration: 1px underline solid maroon;
+        color: maroon;
+    }
+[/style]
