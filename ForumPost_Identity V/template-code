@@ -81,12 +81,6 @@
                         ][styleclass="hidebox-wrapper"][
                             ][hide="Hidebox Test"][
                                 ]Hidebox content![
-                                ][br][
-                                ][styleclass="list"][
-                                    ][ul][
-                                        ][li]Test[/li][
-                                    ][/ul][
-                                ][/styleclass][
                             ][/hide][
                         ][/styleclass][
                     ][/a-section][
@@ -296,15 +290,10 @@
     .bbcode_tooltip
     {
         color: rgb(50,25,75);
-        /*> img
-        {
-            width:2.1em;
-            height:auto;
-        }*/
     }
     .tooltip_content
     {
-        color: lavender;
+        color: lavender !important;
         min-width: 10em;
         border: 0.05em solid lavender;
         background-color:rgb(20,0,20,0.75);
@@ -449,14 +438,6 @@
         color: rgb(50,25,75);
         box-shadow: 0 0.3em 0.6em 0 rgb(50,25,75,0.85), 0 0.3em 0.6em 0 rgb(50,25,75,0.85);
 
-        > div *
-        {
-            > *
-            {
-                color: rgb(50,25,75) !important;
-            }
-        }
-
         > h3
         {
             background: rgb(50,25,75);
@@ -517,6 +498,7 @@
     {
         width: 100%;
         margin: 4px 0;
+        color: rgb(50,25,75);
         > .panel
         {
             border: 0.1em mediumpurple solid;
