@@ -985,15 +985,10 @@
     .bbcode_tooltip
     {
         color: rgb(50,25,75);
-        /*> img
-        {
-            width:2.1em;
-            height:auto;
-        }*/
     }
     .tooltip_content
     {
-        color: lavender;
+        color: lavender !important;
         min-width: 10em;
         border: 0.05em solid lavender;
         background-color:rgb(20,0,20,0.75);
@@ -1142,7 +1137,7 @@
         {
             > *
             {
-                color: rgb(50,25,75) !important;
+                color: rgb(50,25,75);
             }
         }
 
@@ -1381,4 +1376,5 @@
             }
         }
     }
+
 [/style]
