@@ -469,6 +469,11 @@
                                 ][th=3x1]Only Head[/th][
                             ][/tr][
                             ][tr][
+                                ][th]Pokemon[/th][
+                                ][th]Egg EHP[/th][
+                                ][th]Breeding Methods[/th][
+                            ][/tr][
+                            ][tr][
                                 ][td][tip=Arasprit][pkmn=Arasprit/!big][/tip][/td][
                                 ][td][number]5120[/number][/td][
                                 ][td][pkmn=Arasprit/] x [pkmn=Arasprit/][/td][
@@ -529,7 +534,12 @@
                         ][center][img]https://pokefarm.com/upload/:JtcC/body_types/1000017984.png[/img][/center][
                         ][table][
                             ][tr][
-                                ][th=3x1]Quadraped[/th][
+                                ][th=3x1]Quadruped[/th][
+                            ][/tr][
+                            ][tr][
+                                ][th]Pokemon[/th][
+                                ][th]Egg EHP[/th][
+                                ][th]Breeding Methods[/th][
                             ][/tr][
                             ][tr][
                                 ][td][tip=Lunupine][pkmn=Lunupine/!big][/tip][/td][
@@ -881,10 +891,6 @@
     ][/styleclass][
 ][/styleclass]
 
-🖊
-🖊
-
-
 [style]
     @import "skins/user/b/7/q/sharedcss/__extra";
     @pparty-platform-base: rgb(50,25,75);
@@ -1021,7 +1027,9 @@
                 justify-content: center;
                 margin:0.15em;
                 padding:0.6em 0.3em 0.3em;
-                border: 0.15em inset mediumpurple
+                border: 0.15em inset rgb(20, 0, 20, 1.0);
+                background: mediumpurple;
+                color: lavender;
             }
             > li.tab-active
             {
@@ -1032,6 +1040,7 @@
                 border: 0.15em outset mediumpurple;
                 background-color:rgb(20, 0, 20, 1.0);
                 padding:0.6em 0.3em 0.3em;
+                color: lavender;
             }
         }
         > div.tab-active
@@ -1043,6 +1052,7 @@
             background-color:rgb(147,112,219,0.5);
             box-shadow:0 0;
             border: 0.15em solid rebeccapurple;
+            color: lavender;
         }
     }
     .tabbed_interface.vertical
@@ -1062,7 +1072,9 @@
                 justify-content: center;
                 margin:0.15em;
                 padding:0.6em 0.3em 0.3em;
-                border: 0.15em inset mediumpurple;
+                border: 0.15em inset rgb(20, 0, 20, 1.0);
+                background-color: mediumpurple;
+                color: lavender;
             }
             > li.tab-active
             {
@@ -1073,6 +1085,7 @@
                 border: 0.15em outset mediumpurple;
                 background-color:rgb(20, 0, 20, 1.0);
                 padding:0.6em 0.3em 0.3em;
+                color: lavender;
             }
         }
         > div.tab-active
@@ -1084,6 +1097,7 @@
             background-color:rgb(147,112,219,0.5);
             box-shadow:0 0;
             border: 0.15em solid rebeccapurple;
+            color: lavender;
         }
     }
     .lavender
@@ -1124,10 +1138,18 @@
         color: rgb(50,25,75);
         box-shadow: 0 0.3em 0.6em 0 rgb(50,25,75,0.85), 0 0.3em 0.6em 0 rgb(50,25,75,0.85);
 
+        > div *
+        {
+            > *
+            {
+                color: rgb(50,25,75) !important;
+            }
+        }
+
         > h3
         {
             background: rgb(50,25,75);
-            color: lavender;
+            color: lavender !important;
             border-bottom: 0.25em lavender solid;
             text-align: left;
             padding: 0.6em;
@@ -1199,7 +1221,7 @@
                 padding: 0.1em;
                 > a
                 {
-                    color: lavender;
+                    color: lavender !important;
                     font-weight: bold;
                     margin-bottom: 0;
                 }
@@ -1277,7 +1299,7 @@
                     padding: 0.25em;
                     border: 0.1em solid rebeccapurple;
                     background-color: mediumpurple;
-                    color: lavender;
+                    color: lavender !important;
                 }
                 > td
                 {
@@ -1304,34 +1326,29 @@
         width: fit-content;
         max-width: 80%;
         margin: auto;
-        color: rgb(50,25,75) !important;
+        color: lavender;
         
         > ul > li
         {
             text-align: left;
-            color: rgb(50,25,75);
+            color: lavender;
         }
     }
     
     .list
     {
         text-align: left;
-        > ul
+        color: lavender;
+        > ul > li
         {
-           > li
-           {
-                text-align: left;
-                color: rgb(50,25,75);
-           }
+            text-align: left;
+            color: lavender;
         }
         
-        > ol
+        > ol > li
         {
-           > li
-           {
-                text-align: left;
-                color: rgb(50,25,75);
-           }
+            text-align: left;
+            color: rgb(50,25,75);
         }
     }
     
@@ -1364,5 +1381,4 @@
             }
         }
     }
-
 [/style]
