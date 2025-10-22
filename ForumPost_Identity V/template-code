@@ -1,0 +1,695 @@
+[styleclass=content-wrapper][
+    
+    ][styleclass="credit"][
+        ][tip="[
+            ][url=https://pfq.link/~s6yL]code[/url] | [url=https://tinyurl.com/hwc99mwv]bg[/url] | [
+            ][url=https://tinyurl.com/bdv7hsut]div[/url] | [url=https://tinyurl.com/mwe6jfwz]sprite[/url] | [
+            ][url=https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/xy-series/xy4/115/]pfp[/url]"][
+            ][img]https://tinyurl.com/8ays3aj4[/img][
+        ][/tip][
+    ][/styleclass][
+    
+    ][styleclass="page-wrapper"][
+    
+        ][styleclass="page-content"][
+        
+            ]Normal text![
+            ][br][
+            ][b]Bold text![/b][
+            ][br][
+            ][i]Italic text![/i][
+            ][br][
+            ][u]Underline!![/u][
+            ][br][
+            ][s]Strikethrough[/s][
+            ][br][
+            
+            ][styleclass="hidebox-wrapper"][
+                ][hide="Hidebox"][
+                    ]Hidebox content![
+                ][/hide][
+            ][/styleclass][
+            
+            ][table][
+                ][tr][
+                    ][th="3x1"]Wide Header[/th][
+                ][/tr][
+                ][tr][
+                    ][th]Column 1[/th][
+                    ][th]Column 2[/th][
+                    ][th]Column 3[/th][
+                ][/tr][
+                ][tr][
+                    ][td]Row 1 Col 1[/td][
+                    ][td]Row 1 Col 2[/td][
+                    ][td]Row 1 Col 3[/td][
+                ][/tr][
+                ][tr][
+                    ][td]Row 2 Col 1[/td][
+                    ][td]Row 2 Col 2[/td][
+                    ][td]Row 2 Col 3[/td][
+                ][/tr][
+            ][/table][
+            
+            ][url="https://pokefarm.com/user/Sociopathix"]Test Link![/url][
+            
+            ][styleclass="button"][
+                ][url="https://pokefarm.com/user/Sociopathix"]Button[/url][
+            ][/styleclass][
+            
+            ]Test for button row[
+            ][styleclass="button-row"][
+                ][styleclass="button"][
+                    ][url="https://pokefarm.com/user/Sociopathix"]Button[/url][
+                ][/styleclass][
+                ][styleclass="button"][
+                    ][url="https://pokefarm.com/user/Sociopathix"]Button[/url][
+                ][/styleclass][
+            ][/styleclass][
+            
+            ]Horizontal bar[
+            ][hr][
+            
+            ][h1]Header 1[/h1][
+            ][h2]Header 2[/h2][
+            ][h3]Header 3[/h3][
+            
+            ][styleclass="accordion-wrapper"][
+                ][accordion][
+                    ][a-section="Section 1"][
+                        ]Section content![
+                        ][styleclass="hidebox-wrapper"][
+                            ][hide="Hidebox Test"][
+                                ]Hidebox content![
+                                ][br][
+                                ][styleclass="list"][
+                                    ][ul][
+                                        ][li]Test[/li][
+                                    ][/ul][
+                                ][/styleclass][
+                            ][/hide][
+                        ][/styleclass][
+                    ][/a-section][
+                    
+                    ][a-section="Section 2"][
+                        ]Section content![
+                    ][/a-section][
+                ][/accordion][
+            ][/styleclass][
+            
+            ][quote="Quoted User"]This is a quote.[/quote][
+            
+            ][styleclass="centered-list"][
+                ]Centered List:[
+                ][ul][
+                    ][li]Item 1[/li][
+                    ][li]Item 2[/li][
+                    ][li]Item 3[/li][
+                ][/ul][
+            ][/styleclass][
+            
+            ][styleclass="list"][
+                ]Test List:[
+                ][ul][
+                    ][li]Item 1[/li][
+                    ][li]Item 2[/li][
+                    ][li]Item 3[/li][
+                ][/ul][
+            ][/styleclass][
+            
+            ][pkmn="Ralts"][
+            
+            ][styleclass="platform-party"][
+                ][pkmnpanel="JpRvvv"][
+            ][/styleclass][
+            
+            ][styleclass="text-box"][
+                ]This is an element in case you want a light background on text.[
+                ][br][br][
+                ]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[
+            ][/styleclass][
+            
+            ][styleclass="text-box left"][
+                ]This is a text aligned left version of the same element.[
+                ][br][br][
+                ]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[
+            ][/styleclass][
+            
+            ][display="Display Box"][
+                ]You can use the[nobbcode][center][/center][/nobbcode] tags to center this text if needed.[
+                ][br][br][
+                ]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[
+            ][/display][
+            
+            ][styleclass="tabbed_interface horizontal"][
+                ][ul][
+                    ][li]Tab 1[/li][
+                    ][li]Tab 2[/li][
+                    ][li]Tab 3[/li][
+                ][/ul][
+                
+                ][styleclass="tab"][
+                    ]Content for tab 1.[
+                    ][br][br][
+                    ]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[
+                ][/styleclass][
+                
+                ][styleclass="tab"][
+                    ]Content for tab 2.[
+                    ][br][br][
+                    ]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[
+                ][/styleclass][
+                
+                ][styleclass="tab"][
+                    ]Content for tab 3.[
+                    ][br][br][
+                    ]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[
+                ][/styleclass][
+            ][/styleclass][
+            
+            ][styleclass="tabbed_interface vertical"][
+                ][ul][
+                    ][li]Tab 1[/li][
+                    ][li]Tab 2[/li][
+                    ][li]Tab 3[/li][
+                ][/ul][
+                
+                ][styleclass="tab"][
+                    ]Content for tab 1.[
+                    ][br][br][
+                    ]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[
+                ][/styleclass][
+                
+                ][styleclass="tab"][
+                    ]Content for tab 2.[
+                    ][br][br][
+                    ]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[
+                ][/styleclass][
+                
+                ][styleclass="tab"][
+                    ]Content for tab 3.[
+                    ][br][br][
+                    ]Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.[
+                ][/styleclass][
+            ][/styleclass][
+            
+            Must be included at the end of the page-content section if you want the lavender on the bottom!!
+            ][styleclass="lavender"][img]https://tinyurl.com/3zzb42mc[/img][/styleclass][
+            
+        ][/styleclass][
+    
+    ][/styleclass][
+
+][/styleclass]
+
+[style]
+    @import "skins/user/b/7/q/sharedcss/__extra";
+    @pparty-platform-base: rgb(50,25,75);
+    @pparty-platform-border:black;
+    @pparty-name-background:rgb(20,0,20,0.6);
+    @pparty-name-border:lavender;
+    @pparty-berry-background:thistle;
+    @pparty-berry-border:lavender;
+    @pparty-display-item:block;
+    @pparty-display-berries:block;
+    @import "skins/user/b/7/q/sharedcss/__extra";
+    *
+    {
+        font-family:"Georgia","Times New Roman";
+        border-width:0;
+        text-align:center;
+        justify-content:center;
+    }
+    h1 
+    {
+        font-size: 20pt;
+    }
+    h2
+    {
+        font-size: 16pt;
+    }
+    h3
+    {
+        font-size: 12pt;
+    }
+    hr 
+    {
+        display: block;
+        margin-block-start: 0.5em;
+        margin-block-end: 0.5em;
+        margin-inline-start: 0.5em;
+        margin-inline-end: 0.5em;
+        unicode-bidi: isolate;
+        overflow: hidden;
+        border-bottom: 0.3em double mediumpurple;
+        box-shadow: 0 3px 6px 0 rgb(50,25,75,0.6), 0 3px 6px 0 rgb(50,25,75,0.6);
+    }
+    a
+    {
+        color: lavender;
+        transition:0.2s;
+        margin: auto;
+    }
+    a:hover
+    {
+        transition :0.2s;
+        font-size: 11.25pt;
+    }
+    .content-wrapper
+    {
+        display:flex;
+        flex-direction:column;
+        background-image:url("https://foollovers.com/mat/plaid/t03-bg-checked.gif");
+        background-position:top left;
+        padding:0.6em;
+        border: 0.3em solid rebeccapurple;
+    }
+    .page-wrapper
+    {
+        border: 0.25em double rebeccapurple;
+        background-color:rgb(20, 0, 20, 0.6);
+        padding:0.3em;
+    }
+    .page-content
+    {
+        color: lavender;
+        font-size: 11pt;
+        position:relative;
+        background-color:rgb(147,112,219,0.5);
+        box-shadow:0 0;
+        border: 0.2em solid rebeccapurple;
+        padding: 0.3em;
+        padding-bottom: 0;
+    }
+    .credit
+    {
+        position:absolute;
+        left:0.6em;
+        top:0.6em;
+        z-index:1;
+        > .bbcode_tooltip > img
+        {  
+            width: 1.5em;
+            height:auto;
+        }
+    }
+    .bbcode_tooltip
+    {
+        color: rgb(50,25,75);
+        /*> img
+        {
+            width:2.1em;
+            height:auto;
+        }*/
+    }
+    .tooltip_content
+    {
+        color: lavender;
+        min-width: 10em;
+        border: 0.05em solid lavender;
+        background-color:rgb(20,0,20,0.75);
+    }
+    .text-box
+    {
+        margin: 0.3em 0;
+        padding: 0.8em;
+        color: rgb(50,25,75);
+        background-color: lavender;
+        border: 0.15em solid mediumpurple;
+        border-radius: 0.4em;
+        text-align: center;
+    }
+    .text-box.left
+    {
+        text-align: left;
+    }
+    .tabbed_interface.horizontal
+    {
+        margin: 0.3em 0;
+        background-color:transparent;
+        > ul
+        {
+            background-color:transparent;
+            margin-bottom:0.3em;
+            > li
+            {
+                display:flex;
+                flex-flow:column;
+                justify-content: center;
+                margin:0.15em;
+                padding:0.6em 0.3em 0.3em;
+                border: 0.15em inset rgb(20, 0, 20, 1.0);
+                background: mediumpurple;
+                color: lavender;
+            }
+            > li.tab-active
+            {
+                text-align:center;
+                display:flex;
+                flex-flow:column;
+                justify-content: center;
+                border: 0.15em outset mediumpurple;
+                background-color:rgb(20, 0, 20, 1.0);
+                padding:0.6em 0.3em 0.3em;
+                color: lavender;
+            }
+        }
+        > div.tab-active
+        {
+            display:flex;
+            flex-direction:column;
+            justify-content: center;
+            position:relative;
+            background-color:rgb(147,112,219,0.5);
+            box-shadow:0 0;
+            border: 0.15em solid rebeccapurple;
+            color: lavender;
+        }
+    }
+    .tabbed_interface.vertical
+    {
+        width: 100%;
+        margin: 4px 0;
+        background-color:transparent;
+        > ul
+        {
+            background-color:transparent;
+            margin-bottom:4px;
+            flex-flow: column;
+            > li
+            {
+                display:flex;
+                flex-flow:column;
+                justify-content: center;
+                margin:0.15em;
+                padding:0.6em 0.3em 0.3em;
+                border: 0.15em inset rgb(20, 0, 20, 1.0);
+                background-color: mediumpurple;
+                color: lavender;
+            }
+            > li.tab-active
+            {
+                text-align:center;
+                display:flex;
+                flex-flow:column;
+                justify-content: center;
+                border: 0.15em outset mediumpurple;
+                background-color:rgb(20, 0, 20, 1.0);
+                padding:0.6em 0.3em 0.3em;
+                color: lavender;
+            }
+        }
+        > div.tab-active
+        {
+            display:flex;
+            flex-direction:column;
+            justify-content: center;
+            position:relative;
+            background-color:rgb(147,112,219,0.5);
+            box-shadow:0 0;
+            border: 0.15em solid rebeccapurple;
+            color: lavender;
+        }
+    }
+    .lavender
+    {
+        position:relative;
+        align-self:stretch;
+        > img
+        { 
+            width:104%;
+            max-width:none;
+            position:relative;
+            left:-2.25%;
+        }
+    }
+
+    @media(max-width:600px)
+    {
+        .lavender > img
+        {
+            width:100%;
+            left:-5%;
+        }
+        .mascot > img
+        {
+            width:30%;
+            margin-left:20%;
+            height:auto;
+        }
+    }
+    
+    .panel
+    {
+        border: 0.15em rebeccapurple solid;
+        border-radius: 0.6em;
+        background-clip: padding-box;
+        overflow: hidden;
+        margin: 0.3em 0;
+        color: rgb(50,25,75);
+        box-shadow: 0 0.3em 0.6em 0 rgb(50,25,75,0.85), 0 0.3em 0.6em 0 rgb(50,25,75,0.85);
+
+        > div *
+        {
+            > *
+            {
+                color: rgb(50,25,75) !important;
+            }
+        }
+
+        > h3
+        {
+            background: rgb(50,25,75);
+            color: lavender !important;
+            border-bottom: 0.25em lavender solid;
+            text-align: left;
+            padding: 0.6em;
+        }
+        
+        > div
+        {
+            text-align: left;
+            background-color: lavender;
+            padding: 0.8em;
+            color: rgb(50,25,75);
+        }
+    }
+    
+    .button
+    {
+        margin: 1em 0;
+        > a
+        {
+            transition:0.2s;
+            font-size: 10pt;
+            color: rgb(50,25,75);
+            background-color: lavender;
+            padding: 0.4em 0.6em;
+            padding-bottom: 0.5em;
+            border: 0.1em solid mediumpurple;
+            border-radius: 16px;
+        }
+        
+        > a:hover
+        {
+            transition:0.2s;
+            font-size: 10.5pt;
+            color: lavender;
+            padding: 0.3em 0.6em;
+            padding-bottom: 0.4em;
+            background-color: rgb(50,25,75);
+            border: 0.1em solid lavender;
+        }
+    }
+    
+    .button-row
+    {
+        display: flex;
+        justify-content: center;
+        
+        > .button
+        {
+            margin-right: 4px;
+        }
+    }
+    
+    .hidebox-wrapper
+    {
+        width: 100%;
+        margin: 4px 0;
+        > .panel
+        {
+            border: 0.1em mediumpurple solid;
+            background-clip: padding-box;
+            overflow: hidden;
+            box-shadow: 0 3px 6px 0 rgb(50,25,75,0.85), 0 3px 6px 0 rgb(50,25,75,0.85);
+            
+            > h3
+            {
+                background: rgb(50,25,75);
+                border-bottom: 0.05em mediumpurple solid;
+                text-align: left;
+                padding: 0.1em;
+                > a
+                {
+                    color: lavender !important;
+                    font-weight: bold;
+                    margin-bottom: 0;
+                }
+            }
+            > div
+            {
+                text-align: left;
+                background-color: lavender;
+                padding: 0.6em;
+                color: rgb(50,25,75);
+            }
+        }
+    }
+    
+    .accordion-wrapper
+    {
+        width: 100%;
+        margin: 0.3em 0;
+        > .panel
+        {
+            border: 0.1em mediumpurple solid;
+            background-clip: padding-box;
+            overflow: hidden;
+            
+            > h3
+            {
+                background: rgb(50,25,75);
+                border-bottom: 0.05em mediumpurple solid;
+                padding: 0.1em;
+                > a
+                {
+                    color: lavender;
+                    font-weight: bold;
+                    margin-bottom: 0;
+                }
+            }
+            
+            > div
+            {
+                text-align: left;
+                background-color: lavender;
+                padding: 0.6em;
+                color: rgb(50,25,75);
+            }
+        }
+    }
+    
+    table
+    {
+        width: 100%;
+        border: hidden;
+        border: 0.1em mediumpurple solid;
+        border-radius: 0.6em;
+        border-collapse: separate;
+        background-color: rgb(50,25,75);            
+        padding: 0.15em;
+        border-spacing: 0.3em;
+        margin: 0.3em 0;
+        color: rgb(50,25,75);
+        box-shadow: 0 0.3em 0.6em 0 rgb(50,25,75,0.85), 0 0.3em 0.6em 0 rgb(50,25,75,0.85);
+    }
+    
+    .bbcode_table
+    {
+        > tbody
+        {
+            > tr
+            {
+                > th
+                {
+                    text-align: center;
+                    font-size: 11pt;
+                    vertical-align: middle;
+                    border-radius: 0.35em;
+                    padding: 0.25em;
+                    border: 0.1em solid rebeccapurple;
+                    background-color: mediumpurple;
+                    color: lavender !important;
+                }
+                > td
+                {
+                    font-size: 10pt;
+                    background-color: lavender;
+                    vertical-align: middle;
+                    text-align: center;
+                    border-radius: 0.35em;
+                    padding: 0.35em;
+                    border: 0.1em solid rebeccapurple;
+                    color: rgb(50,25,75);
+                    > b, i
+                    {
+                        color: rgb(50,25,75);
+                    }
+                }
+            }
+        }
+    }
+    
+    .centered-list
+    {
+        text-align: left;
+        width: fit-content;
+        max-width: 80%;
+        margin: auto;
+        color: lavender;
+        
+        > ul > li
+        {
+            text-align: left;
+            color: lavender;
+        }
+    }
+    
+    .list
+    {
+        text-align: left;
+        color: lavender;
+        > ul > li
+        {
+            text-align: left;
+            color: lavender;
+        }
+        
+        > ol > li
+        {
+            text-align: left;
+            color: rgb(50,25,75);
+        }
+    }
+    
+    .party .pokemon
+    { 
+        //background-image:url("https://files.catbox.moe/13e03q.gif") !important;
+        background-size:contain;
+    }
+    .platform-party 
+    {
+        margin: 0.3em 0;
+        height: fit-content;
+        > .party 
+        {
+            height: fit-content;
+            > div
+            {
+                height: fit-content;
+                > .name
+                {
+                    padding: 0 0.3em;
+                    padding-bottom: 0.1em;
+                    margin-top: 0.1em;
+                    height: fit-content;
+                    > img
+                    {
+                        margin: auto 0.1em !important;
+                    }
+                }
+            }
+        }
+    }
+[/style]
