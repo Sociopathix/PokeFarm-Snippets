@@ -380,42 +380,4 @@
             font-weight: bold;
         }
     }
-    
-    .links-wrapper
-    {
-        display: flex;
-        flex-direction: column;
-        gap: 8px;
-        
-        > .link
-        {
-            font-size: 9pt;
-            transition: 0.3s;
-            text-align: center;
-            width: fit-content;
-            margin: auto;
-            padding: 4px 8px;
-            border: 1.5px solid darkgoldenrod;
-            border-radius: 4px;
-            background-color: #FFE994;
-            > a
-            {
-                text-decoration: underline 1px saddlebrown;
-                color: saddlebrown;
-            }
-        }
-        
-        > .link:hover
-        {
-            transition: 0.3s;
-            font-size: 9.5pt;
-            background-color: #F7D87C;
-            border: 1.5px solid saddlebrown;
-            padding: 3.75px 7px;
-            > a
-            {
-                color: saddlebrown;
-            }
-        }
-    }
 [/style]
