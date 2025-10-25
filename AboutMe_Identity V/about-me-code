@@ -1,7 +1,7 @@
 [styleclass="content-wrapper"][
 
     ][styleclass="credit-image"][
-        ][tip="[url=https://pfq.link/~s6yL]code[/url] | [url=https://pfq.link/@Jfz1]nightmare[/url] | [url=https://tinyurl.com/hwc99mwv]bg[/url] | [url=https://tinyurl.com/bdv7hsut]div[/url] | [url=https://tinyurl.com/mwe6jfwz]sprite[/url] | [url=https://tinyurl.com/yc68nf5x]idv art[/url] | [url=https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/xy-series/xy4/115/]pfp[/url]"][img]https://tinyurl.com/8ays3aj4[/img][/tip][
+        ][tip="[url=https://pfq.link/~s6yL]code[/url] | [url=https://pfq.link/@Jfz1]nightmare[/url] | [url=https://tinyurl.com/hwc99mwv]bg[/url] | [url=https://tinyurl.com/yc68nf5x]idv art[/url] | [url=https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/xy-series/xy4/115/]pfp[/url]"][img]https://tinyurl.com/8ays3aj4[/img][/tip][
     ][/styleclass][
 
     ][styleclass="about-me-wrapper"][
@@ -193,7 +193,7 @@
     .credit-image
     {
         position: absolute;
-        right: 2px;
+        left: 2px;
         top: 2px;
         z-index: 1;
         
